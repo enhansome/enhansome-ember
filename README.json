@@ -1592,7 +1592,7 @@
             "last_commit": "2023-03-14T16:39:24Z",
             "owner": "danvk",
             "repo": "source-map-explorer",
-            "stars": 3931
+            "stars": 3932
           }
         },
         {
@@ -2090,7 +2090,7 @@
             "last_commit": "2026-08-06T21:15:35Z",
             "owner": "immutable-js",
             "repo": "immutable-js",
-            "stars": 33045
+            "stars": 33044
           }
         },
         {
@@ -2578,7 +2578,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196456
+            "stars": 196469
           }
         },
         {
@@ -3893,7 +3893,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T02:02:49Z",
+            "last_commit": "2026-08-14T07:20:10Z",
             "owner": "hashicorp",
             "repo": "nomad",
             "stars": 16802
@@ -4324,7 +4324,7 @@
             "last_commit": "2023-12-26T15:46:02Z",
             "owner": "getify",
             "repo": "Functional-Light-JS",
-            "stars": 16743
+            "stars": 16742
           }
         },
         {
@@ -4571,10 +4571,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T21:15:09Z",
+            "last_commit": "2026-08-14T05:30:11Z",
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36114
+            "stars": 36116
           }
         },
         {
@@ -4588,7 +4588,7 @@
             "last_commit": "2023-01-09T08:00:58Z",
             "owner": "HospitalRun",
             "repo": "hospitalrun-frontend",
-            "stars": 6890
+            "stars": 6889
           }
         },
         {
@@ -4599,10 +4599,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T17:58:58Z",
+            "last_commit": "2026-08-13T22:08:50Z",
             "owner": "rust-lang",
             "repo": "crates.io",
-            "stars": 3676
+            "stars": 3675
           }
         },
         {
@@ -4641,7 +4641,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-30T17:50:48Z",
+            "last_commit": "2026-08-14T00:15:13Z",
             "owner": "rancher",
             "repo": "ui",
             "stars": 621
@@ -4865,7 +4865,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T08:14:25Z",
+            "last_commit": "2026-08-14T08:30:46Z",
             "owner": "1024pix",
             "repo": "pix-editor",
             "stars": 7
@@ -5439,7 +5439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:43:45.851Z",
+    "last_updated": "2026-08-14T08:37:37.041Z",
     "original_repository": "ember-community-russia/awesome-ember",
     "original_repository_sha": "6f7743a5868b3cb619caea7566d93b83f6f0e2bc",
     "enhanced_repository": "enhansome/enhansome-ember",
