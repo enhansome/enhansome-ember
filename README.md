@@ -37,7 +37,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ## Contents
 
-* Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,936 | 🐛 104 | 📅 2026-08-18
+* Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,395 | 🐛 105 | 📅 2026-08-18
   * [Contents](#contents)
   * [Packages](#packages)
     * [AST](#ast)
@@ -174,7 +174,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### AST
 
-* [jscodeshift](https://github.com/facebook/jscodeshift) ⭐ 10,033 | 🐛 151 | 🌐 JavaScript | 📅 2026-08-11 - A JavaScript codemod toolkit.
+* [jscodeshift](https://github.com/facebook/jscodeshift) ⭐ 10,034 | 🐛 151 | 🌐 JavaScript | 📅 2026-08-11 - A JavaScript codemod toolkit.
 * [ember-template-recast](https://github.com/ember-template-lint/ember-template-recast) ⭐ 42 | 🐛 28 | 🌐 TypeScript | 📅 2025-05-21 - Non-destructive template transformer.
 * [ember-ast-helpers](https://github.com/cibernox/ember-ast-helpers) ⭐ 40 | 🐛 21 | 🌐 TypeScript | 📅 2022-12-06 - This library is a utility belt to make AST transforms and shield users as much as possible from the nuances of the AST, as it is still private API.
 * [dyfactor](https://github.com/dyfactor/dyfactor) ⭐ 8 | 🐛 3 | 🌐 TypeScript | 📅 2021-10-19 - A platform for running codemods based on runtime information.
@@ -217,7 +217,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Authentication
 
-* [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) ⭐ 1,909 | 🐛 73 | 🌐 JavaScript | 📅 2026-08-18 - A library for implementing authentication/authorization in Ember.js applications.
+* [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) ⭐ 1,909 | 🐛 73 | 🌐 JavaScript | 📅 2026-08-20 - A library for implementing authentication/authorization in Ember.js applications.
 * [ember-cli-simple-auth-extensions](https://emberobserver.com/categories/ember-cli-simple-auth-extensions)
 * [tori](https://github.com/Vestorly/torii) - A set of clean abstractions for authentication in Ember.js.
 
@@ -539,7 +539,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Mad science
 
-* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,529 | 🐛 405 | 🌐 JavaScript | 📅 2026-07-26 - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,523 | 🐛 405 | 🌐 JavaScript | 📅 2026-07-26 - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 * [ember-elm](https://github.com/nucleartide/ember-elm) ⭐ 56 | 🐛 30 | 🌐 JavaScript | 📅 2022-12-09 - Write Elm in your Ember.js app.
 
 ### Math
@@ -577,7 +577,7 @@ to build any web application. It is focused on making you, the developer, as pro
 * [ember-render-modifiers](https://github.com/emberjs/ember-render-modifiers) ⭐ 86 | 🐛 14 | 🌐 TypeScript | 📅 2026-04-15 - Implements did-insert / did-update / will-destroy modifiers for RFC #415.
 * [ember-ref-modifier](https://github.com/lifeart/ember-ref-modifier) ⚠️ Archived - An implementation of the `{{ref}}` element modifier.
 * [ember-functional-modifiers](https://github.com/spencer516/ember-functional-modifiers) ⭐ 39 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-15 - Functional Modifiers for Ember.js.
-* [ember-style-modifier](https://github.com/jelhan/ember-style-modifier) ⭐ 38 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-20 - This addon provides a {{style}} element modifier to set element's style.
+* [ember-style-modifier](https://github.com/jelhan/ember-style-modifier) ⭐ 38 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-21 - This addon provides a {{style}} element modifier to set element's style.
 * [ember-on-modifier](https://github.com/buschtoens/ember-on-modifier) ⭐ 36 | 🐛 41 | 🌐 JavaScript | 📅 2022-12-10 - An implementation of the `{{on}}` element modifier shown in the Modifiers RFC #353.
 * [ember-simple-animate](https://github.com/abhilashlr/ember-simple-animate) ⭐ 8 | 🐛 44 | 🌐 JavaScript | 📅 2022-12-09 - Simple ember animate addon for CSS based animations.
 * [ember-css-vars](https://github.com/luxferresum/ember-css-vars) ⭐ 4 | 🐛 24 | 🌐 JavaScript | 📅 2022-12-10 - A ember modifier to apply css variables. This gives a save way to expose data from JavaScript to css.
@@ -710,11 +710,11 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### UI libs
 
-* [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) ⭐ 16,813 | 🐛 1,631 | 🌐 Go | 📅 2026-08-20
+* [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) ⭐ 16,819 | 🐛 1,634 | 🌐 Go | 📅 2026-08-21
 * [ember-paper](https://github.com/miguelcobain/ember-paper) ⭐ 879 | 🐛 206 | 🌐 JavaScript | 📅 2026-07-27 - The Ember.js approach to Material Design.
 * [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) ⭐ 325 | 🐛 52 | 🌐 JavaScript | 📅 2022-12-07 - This is the official Ember.js library for the Semantic-UI modules.
 * [Flexi](https://github.com/html-next/flexi) ⭐ 217 | 🐛 13 | 🌐 JavaScript | 📅 2024-11-01
-* [Frontile](https://github.com/josemarluedke/frontile) ⭐ 58 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-20 - Frontile aims to provide the legos (components, helpers, modifiers, and styles) necessary for building consistent and powerful Ember.js apps.
+* [Frontile](https://github.com/josemarluedke/frontile) ⭐ 58 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-21 - Frontile aims to provide the legos (components, helpers, modifiers, and styles) necessary for building consistent and powerful Ember.js apps.
 * [ember-elements](https://github.com/dunkinbase/ember-elements) ⭐ 56 | 🐛 16 | 🌐 TypeScript | 📅 2023-10-28 - [a UI toolkit in Ember](https://dunkinbase.github.io/ember-elements/)
 * [ember-ghost-casper-template](https://github.com/stonecircle/ember-ghost-casper-template) ⭐ 40 | 🐛 17 | 🌐 JavaScript | 📅 2025-10-24 - A static site version of the default personal blogging theme for Ghost.
 * [ember-cli-uniq](https://github.com/uniplaces/ember-cli-uniq/) ⭐ 3 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-07 - Default components for Ember.js that implement the Uniplaces Design System.
@@ -772,7 +772,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Resources
 
-* [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) ⭐ 17,322 | 🐛 0 | 📅 2025-03-23
+* [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) ⭐ 17,323 | 🐛 0 | 📅 2025-03-23
 * [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
 ### Articles
@@ -1204,7 +1204,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Community
 
 * [Forum](http://discuss.emberjs.com/)
-* [GitHub issues](https://github.com/emberjs/ember.js/issues) ⭐ 22,567 | 🐛 266 | 🌐 TypeScript | 📅 2026-08-20
+* [GitHub issues](https://github.com/emberjs/ember.js/issues) ⭐ 22,566 | 🐛 266 | 🌐 TypeScript | 📅 2026-08-21
 * [Reddit](https://www.reddit.com/r/emberjs/)
 * [Slack](https://embercommunity.slack.com)
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/ember.js)
@@ -1246,9 +1246,9 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Examples
 
-* [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) ⭐ 36,143 | 🐛 1,427 | 🌐 Go | 📅 2026-08-20 - A Tool for Managing Secrets (Hashicorp).
+* [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) ⭐ 36,149 | 🐛 1,425 | 🌐 Go | 📅 2026-08-21 - A Tool for Managing Secrets (Hashicorp).
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) ⚠️ Archived - Ember.js front end for HospitalRun [hospitalrun.io](http://hospitalrun.io/).
-* [Rust Package Registry](https://github.com/rust-lang/crates.io) ⭐ 3,679 | 🐛 116 | 🌐 Rust | 📅 2026-08-19 - [crates.io](https://crates.io)
+* [Rust Package Registry](https://github.com/rust-lang/crates.io) ⭐ 3,681 | 🐛 119 | 🌐 Rust | 📅 2026-08-20 - [crates.io](https://crates.io)
 * [documize.com](https://github.com/documize/community) ⭐ 2,415 | 🐛 46 | 🌐 JavaScript | 📅 2026-05-18
 * [Ghost Admin Client](https://github.com/TryGhost/Ghost-Admin) ⚠️ Archived
 * [Rancher](https://github.com/rancher/ui) ⭐ 621 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-14 - [Rancher](http://rancher.com) is enterprise management for Kubernetes.
@@ -1261,7 +1261,7 @@ to build any web application. It is focused on making you, the developer, as pro
 * [ember-osf-web](https://github.com/CenterForOpenScience/ember-osf-web) ⚠️ Archived - Ember.js front-end for the Open Science Framework.
 * [ember-styleguide](https://github.com/ember-learn/ember-styleguide) ⭐ 80 | 🐛 50 | 🌐 JavaScript | 📅 2026-05-08
 * [API Docs](https://github.com/ember-learn/ember-api-docs) ⭐ 75 | 🐛 61 | 🌐 JavaScript | 📅 2026-08-18 - This application was built to display our versioned API docs.
-* [New York City Census Reporting Tool](https://github.com/NYCPlanning/labs-factfinder) ⭐ 44 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-04
+* [New York City Census Reporting Tool](https://github.com/NYCPlanning/labs-factfinder) ⭐ 44 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-20
 * [octane-ecommerce](https://github.com/betocantu93/octane-ecommerce) ⭐ 24 | 🐛 24 | 🌐 JavaScript | 📅 2022-12-10 - Ember Octane + FastBoot + Algolia + PayPal + Formspree ([s](https://docs.google.com/presentation/d/1YaG26Fj-tVjyFV8LvQJkfIH89-HYdkfHfhdRz3bC2-k/edit#slide=id.g56ccd9a7f0_0_33), [v](https://www.youtube.com/watch?v=KnkWs18V9dA\&feature=youtu.be), [d](https://octane-ecommerce.herokuapp.com/)).
 * [guides-app](https://github.com/ember-learn/guides-app) ⚠️ Archived - Replacement for emberjs/guides and the Ember.js Guides.
 * [Simple contact manager demo app for ember-orbit](https://github.com/cerebris/peeps-ember-orbit) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2019-01-14
@@ -1572,4 +1572,4 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
