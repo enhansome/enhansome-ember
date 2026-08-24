@@ -507,10 +507,10 @@
                 "archived": false,
                 "id": 12570984,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T16:07:12Z",
+                "last_commit": "2026-08-23T22:39:27Z",
                 "owner": "mainmatter",
                 "repo": "ember-simple-auth",
-                "stars": 1909
+                "stars": 1908
               }
             }
           ],
@@ -2237,7 +2237,7 @@
                 "last_commit": "2026-08-17T09:22:33Z",
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33041
+                "stars": 33040
               }
             },
             {
@@ -2644,7 +2644,7 @@
                 "archived": false,
                 "id": 29941808,
                 "language": "TypeScript",
-                "last_commit": "2026-08-12T10:56:07Z",
+                "last_commit": "2026-08-24T08:01:38Z",
                 "owner": "ember-intl",
                 "repo": "ember-intl",
                 "stars": 439
@@ -2659,7 +2659,7 @@
                 "archived": false,
                 "id": 181456996,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T20:40:33Z",
+                "last_commit": "2026-08-23T18:45:35Z",
                 "owner": "mainmatter",
                 "repo": "ember-intl-analyzer",
                 "stars": 50
@@ -2751,7 +2751,7 @@
                 "last_commit": "2026-07-26T02:43:08Z",
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196538
+                "stars": 196547
               }
             },
             {
@@ -3053,7 +3053,7 @@
                 "archived": false,
                 "id": 175091751,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T17:42:25Z",
+                "last_commit": "2026-08-24T00:49:54Z",
                 "owner": "jelhan",
                 "repo": "ember-style-modifier",
                 "stars": 38
@@ -3411,7 +3411,7 @@
                 "archived": false,
                 "id": 172356693,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T02:07:53Z",
+                "last_commit": "2026-08-23T21:09:52Z",
                 "owner": "NullVoxPopuli",
                 "repo": "ember-query-params-service",
                 "stars": 58
@@ -3865,7 +3865,7 @@
                 "archived": false,
                 "id": 43984019,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T16:22:03Z",
+                "last_commit": "2026-08-24T03:10:41Z",
                 "owner": "ember-cli",
                 "repo": "ember-exam",
                 "stars": 289
@@ -3970,7 +3970,7 @@
                 "archived": false,
                 "id": 104937894,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T18:13:01Z",
+                "last_commit": "2026-08-24T08:03:53Z",
                 "owner": "simonihmig",
                 "repo": "ember-window-mock",
                 "stars": 64
@@ -4167,7 +4167,7 @@
                 "last_commit": "2026-08-21T22:59:25Z",
                 "owner": "hashicorp",
                 "repo": "nomad",
-                "stars": 16824
+                "stars": 16828
               }
             },
             {
@@ -4891,7 +4891,7 @@
                 "last_commit": "2026-08-21T22:04:03Z",
                 "owner": "hashicorp",
                 "repo": "vault",
-                "stars": 36154
+                "stars": 36160
               }
             },
             {
@@ -4918,10 +4918,10 @@
                 "archived": false,
                 "id": 21365581,
                 "language": "Rust",
-                "last_commit": "2026-08-23T06:51:21Z",
+                "last_commit": "2026-08-24T07:48:53Z",
                 "owner": "rust-lang",
                 "repo": "crates.io",
-                "stars": 3682
+                "stars": 3681
               }
             },
             {
@@ -4993,7 +4993,7 @@
                 "archived": false,
                 "id": 3056468,
                 "language": "Python",
-                "last_commit": "2026-08-21T17:48:47Z",
+                "last_commit": "2026-08-24T01:54:51Z",
                 "owner": "skylines-project",
                 "repo": "skylines",
                 "stars": 407
@@ -5053,7 +5053,7 @@
                 "archived": false,
                 "id": 50606194,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T02:10:24Z",
+                "last_commit": "2026-08-24T02:06:07Z",
                 "owner": "ember-learn",
                 "repo": "super-rentals",
                 "stars": 174
@@ -5203,7 +5203,7 @@
                 "archived": false,
                 "id": 438315051,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T14:44:01Z",
+                "last_commit": "2026-08-24T07:27:38Z",
                 "owner": "1024pix",
                 "repo": "pix-editor",
                 "stars": 7
@@ -5787,7 +5787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:46:52.489Z",
+    "last_updated": "2026-08-24T08:04:05.106Z",
     "original_repository": "ember-community-russia/awesome-ember",
     "original_repository_id": 128105407,
     "original_repository_sha": "6f7743a5868b3cb619caea7566d93b83f6f0e2bc",
