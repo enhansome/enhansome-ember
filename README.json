@@ -693,6 +693,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ember-cli-babel-plugin-helpers",
+              "description": "Utilities for managing Babel plugins in Ember CLI apps and addons.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150491966,
+                "language": "TypeScript",
+                "last_commit": "2022-02-11T18:38:42Z",
+                "owner": "dfreeman",
+                "repo": "ember-cli-babel-plugin-helpers",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Babel"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ember-boilerplate",
+              "description": "The stable base upon which we build our Ember.js projects at Mirego.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 176351982,
+                "language": "TypeScript",
+                "last_commit": "2022-10-25T12:54:24Z",
+                "owner": "mirego",
+                "repo": "ember-boilerplate",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Boilerplating"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "broccoli-concat-analyser",
               "description": "Assets profiling.",
               "children": [],
@@ -800,6 +844,28 @@
           "description": null,
           "node_type": "group",
           "title": "Broccoli"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Broccoli",
+              "description": "Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10045915,
+                "language": "JavaScript",
+                "last_commit": "2025-11-17T22:03:03Z",
+                "owner": "broccolijs",
+                "repo": "broccoli",
+                "stars": 3323
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Build tools"
         },
         {
           "children": [
@@ -1153,6 +1219,50 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "ember-cli-deploy-brotli",
+              "description": "Ember.js deploy plugin to support brotli compression.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66153867,
+                "language": "JavaScript",
+                "last_commit": "2026-04-05T06:40:44Z",
+                "owner": "mfeckie",
+                "repo": "ember-cli-deploy-brotli",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Compression"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ember-admin",
+              "description": "Automatically discover your models and interact with all model data in a simple CRUD interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22805102,
+                "language": "JavaScript",
+                "last_commit": "2018-09-11T18:52:19Z",
+                "owner": "DockYard",
+                "repo": "ember-admin",
+                "stars": 239
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Content management systems"
+        },
+        {
+          "children": [
+            {
               "node_type": "group",
               "title": "Promises",
               "description": null,
@@ -1414,6 +1524,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ember-cli-webfont",
+              "description": "Easily generate webfonts from svg files as part of your ember-cli build process.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38060182,
+                "language": "JavaScript",
+                "last_commit": "2021-06-01T06:24:01Z",
+                "owner": "vitch",
+                "repo": "ember-cli-webfont",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fonts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ember-changeset",
               "description": null,
               "children": [],
@@ -1491,6 +1623,28 @@
           "description": null,
           "node_type": "group",
           "title": "State management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ember-cli-tailwind",
+              "description": "Adds Tailwind CSS to your app or addon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119319270,
+                "language": "Perl",
+                "last_commit": "2021-06-30T17:00:58Z",
+                "owner": "embermap",
+                "repo": "ember-cli-tailwind",
+                "stars": 100
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Styling kits"
         },
         {
           "children": [
@@ -1692,6 +1846,50 @@
           "description": null,
           "node_type": "group",
           "title": "Data validation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ember-indexeddb",
+              "description": "Utilities & adapter to work with IndexedDB in ember & ember-data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75846616,
+                "language": "JavaScript",
+                "last_commit": "2026-02-26T16:16:17Z",
+                "owner": "mydea",
+                "repo": "ember-indexeddb",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Database"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ember-moment",
+              "description": "Template helpers and computed property macros for moment.js and Ember.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24656126,
+                "language": "JavaScript",
+                "last_commit": "2026-03-25T14:07:55Z",
+                "owner": "adopted-ember-addons",
+                "repo": "ember-moment",
+                "stars": 398
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Date"
         },
         {
           "children": [
@@ -2237,7 +2435,7 @@
                 "last_commit": "2026-08-17T09:22:33Z",
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33040
+                "stars": 33041
               }
             },
             {
@@ -2518,6 +2716,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ember-svg-jar",
+              "description": "The best way to embed SVG images into your Ember.js application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60270770,
+                "language": "JavaScript",
+                "last_commit": "2026-04-21T21:55:24Z",
+                "owner": "evoactivity",
+                "repo": "ember-svg-jar",
+                "stars": 251
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ember-auto-import",
               "description": "Zero config import from npm packages.",
               "children": [],
@@ -2644,7 +2864,7 @@
                 "archived": false,
                 "id": 29941808,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:01:38Z",
+                "last_commit": "2026-08-24T13:11:44Z",
                 "owner": "ember-intl",
                 "repo": "ember-intl",
                 "stars": 439
@@ -2669,6 +2889,28 @@
           "description": null,
           "node_type": "group",
           "title": "Internalization & Localization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ember-autoresize",
+              "description": "Autoresize for Ember.js Components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10391087,
+                "language": "JavaScript",
+                "last_commit": "2020-09-15T14:00:38Z",
+                "owner": "adopted-ember-addons",
+                "repo": "ember-autoresize",
+                "stars": 88
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Inputs"
         },
         {
           "children": [
@@ -2741,6 +2983,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ember-logging-service",
+              "description": "This addon provides a general and extensible logging service that can be used throughout your application.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 75664627,
+                "language": "JavaScript",
+                "last_commit": "2018-06-18T16:11:08Z",
+                "owner": "acquia",
+                "repo": "ember-logging-service",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Logging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "javascript-algorithms",
               "description": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings.",
               "children": [],
@@ -2751,7 +3015,7 @@
                 "last_commit": "2026-07-26T02:43:08Z",
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196547
+                "stars": 196546
               }
             },
             {
@@ -2884,6 +3148,28 @@
           "description": null,
           "node_type": "group",
           "title": "Minifiers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ember data model maker",
+              "description": "Ember Data Model Maker (EDMM).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20243980,
+                "language": "JavaScript",
+                "last_commit": "2016-06-13T23:55:23Z",
+                "owner": "andycrum",
+                "repo": "ember-data-model-maker",
+                "stars": 151
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
         },
         {
           "children": [
@@ -3053,7 +3339,7 @@
                 "archived": false,
                 "id": 175091751,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T00:49:54Z",
+                "last_commit": "2026-08-24T10:01:33Z",
                 "owner": "jelhan",
                 "repo": "ember-style-modifier",
                 "stars": 38
@@ -3145,6 +3431,28 @@
           "description": null,
           "node_type": "group",
           "title": "Parcel"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ember-credit-card",
+              "description": "\"make your credit card form dreamy in one line of code\".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36878661,
+                "language": "JavaScript",
+                "last_commit": "2022-12-10T17:03:28Z",
+                "owner": "esbanarango",
+                "repo": "ember-credit-card",
+                "stars": 100
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Payments"
         },
         {
           "children": [
@@ -3421,6 +3729,28 @@
           "description": null,
           "node_type": "group",
           "title": "Query Params"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ember-cli-flash",
+              "description": "Simple, highly configurable flash messages for ember-cli.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30141536,
+                "language": "TypeScript",
+                "last_commit": "2026-02-10T16:02:46Z",
+                "owner": "adopted-ember-addons",
+                "repo": "ember-cli-flash",
+                "stars": 355
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Real-time"
         },
         {
           "children": [
@@ -3806,6 +4136,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ember-cli-sass",
+              "description": "Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21167090,
+                "language": "JavaScript",
+                "last_commit": "2024-01-08T13:27:34Z",
+                "owner": "adopted-ember-addons",
+                "repo": "ember-cli-sass",
+                "stars": 273
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Styling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Emblem.js",
               "description": "Ember.js-friendly, indented syntax alternative for Handlebars.js.",
               "children": [],
@@ -3970,7 +4322,7 @@
                 "archived": false,
                 "id": 104937894,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:03:53Z",
+                "last_commit": "2026-08-24T08:05:22Z",
                 "owner": "simonihmig",
                 "repo": "ember-window-mock",
                 "stars": 64
@@ -4105,6 +4457,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ember-text-measurer",
+              "description": "Simple Ember.js Service to measure the width of a string in a performant way.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58722650,
+                "language": "JavaScript",
+                "last_commit": "2022-12-08T02:51:44Z",
+                "owner": "cibernox",
+                "repo": "ember-text-measurer",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ember-cli-tree-shaker",
+              "description": "This is a testbed for the new tree-shaking and code splitting work from Kelly Selden and Alex Navasardyan.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 112283264,
+                "language": "JavaScript",
+                "last_commit": "2019-04-02T05:43:03Z",
+                "owner": "kellyselden",
+                "repo": "ember-cli-tree-shaker",
+                "stars": 76
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tree Shaking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ember-cli-typescript",
               "description": "Use TypeScript in your Ember.js apps!",
               "children": [],
@@ -4167,7 +4563,7 @@
                 "last_commit": "2026-08-21T22:59:25Z",
                 "owner": "hashicorp",
                 "repo": "nomad",
-                "stars": 16828
+                "stars": 16830
               }
             },
             {
@@ -4396,6 +4792,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ember-onbeforeunload",
+              "description": "Invoke logic when transitioning between routes or closing window.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20340373,
+                "language": "JavaScript",
+                "last_commit": "2022-12-10T20:27:09Z",
+                "owner": "jasonmit",
+                "repo": "ember-onbeforeunload",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "UX"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ember-language-server",
               "description": "Language Server Protocol implementation for Ember.js projects.",
               "children": [],
@@ -4448,6 +4866,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Atom Ember Snippets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21066180,
+                "language": "JavaScript",
+                "last_commit": "2019-01-28T21:26:24Z",
+                "owner": "mattmcmanus",
+                "repo": "atom-ember-snippets",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Atom addons"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "shadow-dom",
               "description": "Write templates for your components inside of a Shadow DOM root.",
               "children": [],
@@ -4480,6 +4920,72 @@
           "description": null,
           "node_type": "group",
           "title": "Web Components"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "glimmer-compiler-webpack-plugin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101182924,
+                "language": "TypeScript",
+                "last_commit": "2018-01-14T19:02:46Z",
+                "owner": "tomdale",
+                "repo": "glimmer-compiler-webpack-plugin",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Webpack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ember-dynamic-render-template",
+              "description": "Render DOM from a template string.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84866172,
+                "language": "JavaScript",
+                "last_commit": "2025-11-18T20:18:28Z",
+                "owner": "miguelcobain",
+                "repo": "ember-dynamic-render-template",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Weird"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Front-End Performance Checklist",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139596105,
+                "language": null,
+                "last_commit": "2025-03-23T17:55:46Z",
+                "owner": "thedaviddias",
+                "repo": "Front-End-Performance-Checklist",
+                "stars": 17328
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Resources"
         },
         {
           "children": [
@@ -4607,6 +5113,28 @@
           "description": null,
           "node_type": "group",
           "title": "Articles"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Git Guides",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 42467001,
+                "language": "TypeScript",
+                "last_commit": "2026-01-06T19:21:28Z",
+                "owner": "glimmerjs",
+                "repo": "glimmer-vm",
+                "stars": 1150
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Articles Glimmer"
         },
         {
           "children": [
@@ -4881,6 +5409,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "GitHub issues",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1801829,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T07:39:31Z",
+                "owner": "emberjs",
+                "repo": "ember.js",
+                "stars": 22567
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Vault",
               "description": "A Tool for Managing Secrets (Hashicorp).",
               "children": [],
@@ -4891,7 +5441,7 @@
                 "last_commit": "2026-08-21T22:04:03Z",
                 "owner": "hashicorp",
                 "repo": "vault",
-                "stars": 36160
+                "stars": 36161
               }
             },
             {
@@ -4918,7 +5468,7 @@
                 "archived": false,
                 "id": 21365581,
                 "language": "Rust",
-                "last_commit": "2026-08-24T07:48:53Z",
+                "last_commit": "2026-08-24T12:28:08Z",
                 "owner": "rust-lang",
                 "repo": "crates.io",
                 "stars": 3681
@@ -5203,7 +5753,7 @@
                 "archived": false,
                 "id": 438315051,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T07:27:38Z",
+                "last_commit": "2026-08-24T12:47:51Z",
                 "owner": "1024pix",
                 "repo": "pix-editor",
                 "stars": 7
@@ -5637,6 +6187,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Slides from Ember JS Berlin talk, Design Patterns in Ember",
+              "description": "By @chadian.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116975034,
+                "language": null,
+                "last_commit": "2018-01-10T15:29:44Z",
+                "owner": "chadian",
+                "repo": "ember-js-berlin-design-patterns",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Slides"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ember-styleguide",
               "description": null,
               "children": [],
@@ -5781,13 +6353,35 @@
           "description": null,
           "node_type": "group",
           "title": "Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ember runloop handbook",
+              "description": "A deep dive into the Ember.js runloop.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23266544,
+                "language": "JavaScript",
+                "last_commit": "2019-05-20T23:50:47Z",
+                "owner": "eoinkelly",
+                "repo": "ember-runloop-handbook",
+                "stars": 365
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
         }
       ],
       "title": "Packages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:04:05.106Z",
+    "last_updated": "2026-08-24T14:31:42.819Z",
     "original_repository": "ember-community-russia/awesome-ember",
     "original_repository_id": 128105407,
     "original_repository_sha": "6f7743a5868b3cb619caea7566d93b83f6f0e2bc",

@@ -30,14 +30,14 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ***
 
-*You might also like [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,020 | 🐛 29 | 📅 2026-08-19.*
+*You might also like [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,021 | 🐛 30 | 📅 2026-08-19.*
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ***
 
 ## Contents
 
-* Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,397 | 🐛 106 | 📅 2026-08-21
+* Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,519 | 🐛 106 | 📅 2026-08-21
   * [Contents](#contents)
   * [Packages](#packages)
     * [AST](#ast)
@@ -461,7 +461,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Functional programming
 
-* [immutable](https://github.com/facebook/immutable-js) ⭐ 33,040 | 🐛 128 | 🌐 TypeScript | 📅 2026-08-17 - Immutable data collections.
+* [immutable](https://github.com/facebook/immutable-js) ⭐ 33,041 | 🐛 128 | 🌐 TypeScript | 📅 2026-08-17 - Immutable data collections.
 * [Lazy.js](https://github.com/dtao/lazy.js) ⭐ 5,968 | 🐛 59 | 🌐 JavaScript | 📅 2020-07-15 - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
 * [Kefir.js](https://github.com/rpominov/kefir) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2017-11-05 - Reactive library with focus on high performance and low memory usage.
 * [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
@@ -515,7 +515,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Internalization & Localization
 
-* [ember-intl](https://github.com/ember-intl/ember-intl) ⭐ 439 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-24 - Translate complex messages string. Localized formatting for date/time, number, and relative time.
+* [ember-intl](https://github.com/ember-intl/ember-intl) ⭐ 439 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-24 - Translate complex messages string. Localized formatting for date/time, number, and relative time.
 * [ember-intl-analyzer](https://github.com/simplabs/ember-intl-analyzer) ⭐ 50 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-23 - Find unused translations in your Ember.js projects.
 
 ### Inputs
@@ -532,14 +532,14 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Logging
 
+* [ember-logging-service](https://github.com/acquia/ember-logging-service/) ⚠️ Archived - This addon provides a general and extensible logging service that can be used throughout your application.
 * [console.re](https://console.re/)
 * [ember-debug-logger](https://emberobserver.com/addons/ember-debug-logger) - An Ember.js addon to expose the Visionmedia debug logger.
-* [ember-logging-service](https://github.com/acquia/ember-logging-service/) ⚠️ Archived - This addon provides a general and extensible logging service that can be used throughout your application.
 * [raygun](https://raygun.com/)
 
 ### Mad science
 
-* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,547 | 🐛 405 | 🌐 JavaScript | 📅 2026-07-26 - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,546 | 🐛 405 | 🌐 JavaScript | 📅 2026-07-26 - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 * [ember-elm](https://github.com/nucleartide/ember-elm) ⭐ 56 | 🐛 30 | 🌐 JavaScript | 📅 2022-12-09 - Write Elm in your Ember.js app.
 
 ### Math
@@ -559,8 +559,8 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Miscellaneous
 
-* [diagonal routes](https://alexspeller.com/ember-diagonal/) - See what route structure, templates and route hooks are for a given ember route definition.
 * [ember data model maker](https://github.com/andycrum/ember-data-model-maker/) ⭐ 151 | 🐛 7 | 🌐 JavaScript | 📅 2016-06-13 - Ember Data Model Maker (EDMM).
+* [diagonal routes](https://alexspeller.com/ember-diagonal/) - See what route structure, templates and route hooks are for a given ember route definition.
 
 ### Mobile
 
@@ -710,7 +710,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### UI libs
 
-* [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) ⭐ 16,828 | 🐛 1,634 | 🌐 Go | 📅 2026-08-21
+* [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) ⭐ 16,830 | 🐛 1,634 | 🌐 Go | 📅 2026-08-21
 * [ember-paper](https://github.com/miguelcobain/ember-paper) ⭐ 879 | 🐛 206 | 🌐 JavaScript | 📅 2026-07-27 - The Ember.js approach to Material Design.
 * [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) ⭐ 325 | 🐛 52 | 🌐 JavaScript | 📅 2022-12-07 - This is the official Ember.js library for the Semantic-UI modules.
 * [Flexi](https://github.com/html-next/flexi) ⭐ 217 | 🐛 13 | 🌐 JavaScript | 📅 2024-11-01
@@ -1027,6 +1027,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Articles Glimmer
 
+* [Git Guides](https://github.com/glimmerjs/glimmer-vm/blob/master/guides/01-introduction.md) ⚠️ Archived
 * [Alternative View Layers for an Elm App](https://robots.thoughtbot.com/elm-glimmer)
 * [Creating Web Components with Glimmer](https://simplabs.com/blog/2017/08/28/creating-web-components-with-glimmer.html)
 * [Building a PWA with Glimmer.js](https://simplabs.com/blog/2018/07/03/building-a-pwa-with-glimmer-js.html)
@@ -1034,7 +1035,6 @@ to build any web application. It is focused on making you, the developer, as pro
 * [The Glimmer Binary Experience](https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience)
 * [Glimmer.js: What’s the Deal with TypeScript?](https://medium.com/@tomdale/glimmer-js-whats-the-deal-with-typescript-f666d1a3aad0)
 * [Glimmer.js Application proposal](https://gist.github.com/tomdale/10fe9feeb84f2e4325f042839799bd9d) - Compilation, Rendering, SSR, Rehydration.
-* [Git Guides](https://github.com/glimmerjs/glimmer-vm/blob/master/guides/01-introduction.md) ⚠️ Archived
 * [Designing and Implementing Glimmer Like a Programming Language](https://thefeedbackloop.xyz/designing-and-implementing-glimmer-like-a-programming-language/)
 * [Glimmer: Blazing Fast Rendering for Ember.js, Part 1](https://engineering.linkedin.com/blog/2017/03/glimmer--blazing-fast-rendering-for-ember-js--part-1)
 * [Glimmer: Blazing Fast Rendering for Ember.js, Part 2](https://engineering.linkedin.com/blog/2017/06/glimmer--blazing-fast-rendering-for-ember-js--part-2)
@@ -1203,8 +1203,8 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Community
 
-* [Forum](http://discuss.emberjs.com/)
 * [GitHub issues](https://github.com/emberjs/ember.js/issues) ⭐ 22,567 | 🐛 266 | 🌐 TypeScript | 📅 2026-08-24
+* [Forum](http://discuss.emberjs.com/)
 * [Reddit](https://www.reddit.com/r/emberjs/)
 * [Slack](https://embercommunity.slack.com)
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/ember.js)
@@ -1246,9 +1246,9 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Examples
 
-* [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) ⭐ 36,160 | 🐛 1,429 | 🌐 Go | 📅 2026-08-21 - A Tool for Managing Secrets (Hashicorp).
+* [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) ⭐ 36,161 | 🐛 1,429 | 🌐 Go | 📅 2026-08-21 - A Tool for Managing Secrets (Hashicorp).
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) ⚠️ Archived - Ember.js front end for HospitalRun [hospitalrun.io](http://hospitalrun.io/).
-* [Rust Package Registry](https://github.com/rust-lang/crates.io) ⭐ 3,681 | 🐛 117 | 🌐 Rust | 📅 2026-08-24 - [crates.io](https://crates.io)
+* [Rust Package Registry](https://github.com/rust-lang/crates.io) ⭐ 3,681 | 🐛 114 | 🌐 Rust | 📅 2026-08-24 - [crates.io](https://crates.io)
 * [documize.com](https://github.com/documize/community) ⭐ 2,415 | 🐛 46 | 🌐 JavaScript | 📅 2026-05-18
 * [Ghost Admin Client](https://github.com/TryGhost/Ghost-Admin) ⚠️ Archived
 * [Rancher](https://github.com/rancher/ui) ⭐ 621 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-14 - [Rancher](http://rancher.com) is enterprise management for Kubernetes.
@@ -1377,9 +1377,9 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Slides
 
+* [Slides from Ember JS Berlin talk, Design Patterns in Ember](https://github.com/chadian/ember-js-berlin-design-patterns) ⭐ 2 | 🐛 0 | 📅 2018-01-10 - By @chadian.
 * [30 Days Of Ember](https://slides.com/poslinski_net/30-days-of-ember) - Dawid Pośliński.
 * [NaNoWriMo: How can Ember help you write a novel](https://slides.com/emma_be/nanowrimo-ember#/) - @EmmaDelecolle.
-* [Slides from Ember JS Berlin talk, Design Patterns in Ember](https://github.com/chadian/ember-js-berlin-design-patterns) ⭐ 2 | 🐛 0 | 📅 2018-01-10 - By @chadian.
 * [Rainy Day Ember Data](https://speakerdeck.com/tonywok/rainy-day-ember-data) - Tony Schneider (@tonywok).
 * [Building Realtime Apps with Ember.js and WebSockets](https://www.slideshare.net/BenLimmer/building-realtime-apps-with-emberjs-and-websockets) - Ben Limmer.
 * [Deploying a Location-Aware Ember Application](https://www.slideshare.net/BenLimmer/deploying-a-locationaware-ember-application) -  Ben Limmer.
@@ -1420,10 +1420,10 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Tutorials
 
+* [Ember runloop handbook](https://github.com/eoinkelly/ember-runloop-handbook) ⭐ 365 | 🐛 0 | 🌐 JavaScript | 📅 2019-05-20 - A deep dive into the Ember.js runloop.
 * [How to learn EmberJS in a hurry](https://medium.com/ember-ish/how-to-learn-emberjs-in-a-hurry-c6fdeae256a0)
 * [Discover Ember 2](https://www.ludu.co/course/ember) - Learn how to build a Twitter clone from scratch.
 * [Ember Components: A Deep Dive](http://code.tutsplus.com/tutorials/ember-components-a-deep-dive--net-35551) - A closer look at using Ember.js Components.
-* [Ember runloop handbook](https://github.com/eoinkelly/ember-runloop-handbook) ⭐ 365 | 🐛 0 | 🌐 JavaScript | 📅 2019-05-20 - A deep dive into the Ember.js runloop.
 * [Ember with Phoenix (AKA The PEEP Stack)](https://medium.com/peep-stack) - Developing an Ember.js front-end alongside a [JSON API](http://jsonapi.org/)-compliant [Phoenix](http://www.phoenixframework.org/) backend.
 * [Getting into Ember.js](http://code.tutsplus.com/tutorials/getting-into-emberjs--net-30709) - A five part introductory course to Ember.
 * [Getting Started with Ember.js using Ember CLI](https://thetechcofounder.com/getting-started-with-ember/) - Building a Todo app with Ember CLI.
