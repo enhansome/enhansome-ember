@@ -37,7 +37,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ## Contents
 
-* Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,812 | 🐛 105 | 📅 2026-08-21
+* Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,893 | 🐛 105 | 📅 2026-08-21
   * [Contents](#contents)
   * [Packages](#packages)
     * [AST](#ast)
@@ -336,7 +336,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### CSS & etc
 
-* [css-blocks](https://github.com/linkedin/css-blocks) ⭐ 6,290 | 🐛 189 | 🌐 TypeScript | 📅 2023-05-20 - High performance, maintainable stylesheets.
+* [css-blocks](https://github.com/linkedin/css-blocks) ⭐ 6,289 | 🐛 189 | 🌐 TypeScript | 📅 2023-05-20 - High performance, maintainable stylesheets.
 * [ember-cli-eyeglass](https://github.com/linkedin/eyeglass/tree/master/packages/ember-cli-eyeglass) ⭐ 738 | 🐛 62 | 🌐 TypeScript | 📅 2023-07-18 - This Ember CLI Addon makes it trivial to compile your sass files with eyeglass support via node-sass.
 * [ember-component-css](https://github.com/ebryn/ember-component-css) ⭐ 534 | 🐛 55 | 🌐 JavaScript | 📅 2023-03-04 - An Ember CLI addon which allows you to specify styles for individual components.
 * [ember-css-modules](https://github.com/salsify/ember-css-modules) ⭐ 282 | 🐛 92 | 🌐 JavaScript | 📅 2026-05-18 - CSS Modules for ambitious applications.
@@ -539,7 +539,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Mad science
 
-* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,576 | 🐛 404 | 🌐 JavaScript | 📅 2026-07-26 - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,577 | 🐛 404 | 🌐 JavaScript | 📅 2026-07-26 - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 * [ember-elm](https://github.com/nucleartide/ember-elm) ⭐ 56 | 🐛 30 | 🌐 JavaScript | 📅 2022-12-09 - Write Elm in your Ember.js app.
 
 ### Math
@@ -577,7 +577,7 @@ to build any web application. It is focused on making you, the developer, as pro
 * [ember-render-modifiers](https://github.com/emberjs/ember-render-modifiers) ⭐ 86 | 🐛 14 | 🌐 TypeScript | 📅 2026-04-15 - Implements did-insert / did-update / will-destroy modifiers for RFC #415.
 * [ember-ref-modifier](https://github.com/lifeart/ember-ref-modifier) ⚠️ Archived - An implementation of the `{{ref}}` element modifier.
 * [ember-functional-modifiers](https://github.com/spencer516/ember-functional-modifiers) ⭐ 39 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-15 - Functional Modifiers for Ember.js.
-* [ember-style-modifier](https://github.com/jelhan/ember-style-modifier) ⭐ 38 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-28 - This addon provides a {{style}} element modifier to set element's style.
+* [ember-style-modifier](https://github.com/jelhan/ember-style-modifier) ⭐ 38 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-29 - This addon provides a {{style}} element modifier to set element's style.
 * [ember-on-modifier](https://github.com/buschtoens/ember-on-modifier) ⭐ 36 | 🐛 41 | 🌐 JavaScript | 📅 2022-12-10 - An implementation of the `{{on}}` element modifier shown in the Modifiers RFC #353.
 * [ember-simple-animate](https://github.com/abhilashlr/ember-simple-animate) ⭐ 8 | 🐛 44 | 🌐 JavaScript | 📅 2022-12-09 - Simple ember animate addon for CSS based animations.
 * [ember-css-vars](https://github.com/luxferresum/ember-css-vars) ⭐ 4 | 🐛 24 | 🌐 JavaScript | 📅 2022-12-10 - A ember modifier to apply css variables. This gives a save way to expose data from JavaScript to css.
@@ -655,7 +655,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### SSR / Server Side Rendering
 
-* [ember-fastboot](https://github.com/ember-fastboot/ember-cli-fastboot) ⭐ 849 | 🐛 150 | 🌐 JavaScript | 📅 2026-08-27 - Server-side rendering for Ember.js apps.
+* [ember-fastboot](https://github.com/ember-fastboot/ember-cli-fastboot) ⭐ 849 | 🐛 150 | 🌐 JavaScript | 📅 2026-08-28 - Server-side rendering for Ember.js apps.
 * [glimmer-ssr-test](https://github.com/josemarluedke/glimmer-ssr-test) - Making a Glimmer.js app be rendered in the server.
 
 ### Static site generators & SEO
@@ -710,11 +710,11 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### UI libs
 
-* [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) ⭐ 16,840 | 🐛 1,639 | 🌐 Go | 📅 2026-08-28
+* [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) ⭐ 16,841 | 🐛 1,638 | 🌐 Go | 📅 2026-08-28
 * [ember-paper](https://github.com/miguelcobain/ember-paper) ⭐ 879 | 🐛 206 | 🌐 JavaScript | 📅 2026-07-27 - The Ember.js approach to Material Design.
 * [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) ⭐ 325 | 🐛 52 | 🌐 JavaScript | 📅 2022-12-07 - This is the official Ember.js library for the Semantic-UI modules.
 * [Flexi](https://github.com/html-next/flexi) ⭐ 217 | 🐛 13 | 🌐 JavaScript | 📅 2024-11-01
-* [Frontile](https://github.com/josemarluedke/frontile) ⭐ 58 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-27 - Frontile aims to provide the legos (components, helpers, modifiers, and styles) necessary for building consistent and powerful Ember.js apps.
+* [Frontile](https://github.com/josemarluedke/frontile) ⭐ 58 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-28 - Frontile aims to provide the legos (components, helpers, modifiers, and styles) necessary for building consistent and powerful Ember.js apps.
 * [ember-elements](https://github.com/dunkinbase/ember-elements) ⭐ 56 | 🐛 16 | 🌐 TypeScript | 📅 2023-10-28 - [a UI toolkit in Ember](https://dunkinbase.github.io/ember-elements/)
 * [ember-ghost-casper-template](https://github.com/stonecircle/ember-ghost-casper-template) ⭐ 40 | 🐛 17 | 🌐 JavaScript | 📅 2025-10-24 - A static site version of the default personal blogging theme for Ghost.
 * [ember-cli-uniq](https://github.com/uniplaces/ember-cli-uniq/) ⭐ 3 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-07 - Default components for Ember.js that implement the Uniplaces Design System.
@@ -772,7 +772,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Resources
 
-* [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) ⭐ 17,332 | 🐛 0 | 📅 2025-03-23
+* [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) ⭐ 17,333 | 🐛 0 | 📅 2025-03-23
 * [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
 ### Articles
@@ -1203,7 +1203,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Community
 
-* [GitHub issues](https://github.com/emberjs/ember.js/issues) ⭐ 22,566 | 🐛 265 | 🌐 TypeScript | 📅 2026-08-28
+* [GitHub issues](https://github.com/emberjs/ember.js/issues) ⭐ 22,567 | 🐛 265 | 🌐 TypeScript | 📅 2026-08-28
 * [Forum](http://discuss.emberjs.com/)
 * [Reddit](https://www.reddit.com/r/emberjs/)
 * [Slack](https://embercommunity.slack.com)
@@ -1246,9 +1246,9 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Examples
 
-* [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) ⭐ 36,181 | 🐛 1,431 | 🌐 Go | 📅 2026-08-28 - A Tool for Managing Secrets (Hashicorp).
+* [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) ⭐ 36,185 | 🐛 1,431 | 🌐 Go | 📅 2026-08-28 - A Tool for Managing Secrets (Hashicorp).
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) ⚠️ Archived - Ember.js front end for HospitalRun [hospitalrun.io](http://hospitalrun.io/).
-* [Rust Package Registry](https://github.com/rust-lang/crates.io) ⭐ 3,686 | 🐛 110 | 🌐 Rust | 📅 2026-08-28 - [crates.io](https://crates.io)
+* [Rust Package Registry](https://github.com/rust-lang/crates.io) ⭐ 3,687 | 🐛 111 | 🌐 Rust | 📅 2026-08-28 - [crates.io](https://crates.io)
 * [documize.com](https://github.com/documize/community) ⭐ 2,416 | 🐛 46 | 🌐 JavaScript | 📅 2026-05-18
 * [Ghost Admin Client](https://github.com/TryGhost/Ghost-Admin) ⚠️ Archived
 * [Rancher](https://github.com/rancher/ui) ⭐ 621 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-25 - [Rancher](http://rancher.com) is enterprise management for Kubernetes.
@@ -1572,4 +1572,4 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
