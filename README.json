@@ -494,8 +494,8 @@
                 "id": 21357099,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T22:23:26Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-13T02:05:59Z",
+                "open_issues": 20,
                 "owner": "dustinfarris",
                 "repo": "ember-django-adapter",
                 "stars": 192,
@@ -3597,7 +3597,7 @@
                 "open_issues": 138,
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33030,
+                "stars": 33031,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:08.294Z"
@@ -4479,10 +4479,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-07-26T02:43:08Z",
-                "open_issues": 405,
+                "open_issues": 406,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196683,
+                "stars": 196698,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -4959,7 +4959,7 @@
                 "id": 175091751,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T09:37:47Z",
+                "last_commit": "2026-09-12T12:31:28Z",
                 "open_issues": 13,
                 "owner": "jelhan",
                 "repo": "ember-style-modifier",
@@ -6800,7 +6800,7 @@
                 "open_issues": 1626,
                 "owner": "hashicorp",
                 "repo": "nomad",
-                "stars": 16878,
+                "stars": 16899,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:08.294Z"
@@ -6890,8 +6890,8 @@
                 "id": 219031296,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T22:33:30Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-12T20:16:22Z",
+                "open_issues": 7,
                 "owner": "josemarluedke",
                 "repo": "frontile",
                 "stars": 58,
@@ -7439,7 +7439,7 @@
                 "open_issues": 0,
                 "owner": "thedaviddias",
                 "repo": "Front-End-Performance-Checklist",
-                "stars": 17338,
+                "stars": 17339,
                 "topics": [
                   "checklist",
                   "css",
@@ -7706,7 +7706,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16735,
+                "stars": 16734,
                 "topics": [
                   "book",
                   "education",
@@ -8109,7 +8109,7 @@
                 "id": 1801829,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T07:24:42Z",
+                "last_commit": "2026-09-13T07:26:03Z",
                 "open_issues": 278,
                 "owner": "emberjs",
                 "repo": "ember.js",
@@ -8146,7 +8146,7 @@
                 "open_issues": 1434,
                 "owner": "hashicorp",
                 "repo": "vault",
-                "stars": 36233,
+                "stars": 36234,
                 "topics": [
                   "go",
                   "secrets",
@@ -8171,7 +8171,7 @@
                 "open_issues": 72,
                 "owner": "HospitalRun",
                 "repo": "hospitalrun-frontend",
-                "stars": 6889,
+                "stars": 6890,
                 "topics": [
                   "couchdb",
                   "emr",
@@ -8200,8 +8200,8 @@
                 "id": 21365581,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T10:25:13Z",
-                "open_issues": 116,
+                "last_commit": "2026-09-13T11:49:28Z",
+                "open_issues": 117,
                 "owner": "rust-lang",
                 "repo": "crates.io",
                 "stars": 3697,
@@ -9669,7 +9669,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:36:29.969Z",
+    "last_updated": "2026-09-13T12:43:26.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ember.js stuff like addons, articles, videos, gists and more.",

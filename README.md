@@ -30,14 +30,14 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ***
 
-*You might also like [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,018 | 🐛 23 | 📅 2026-09-08.*
+*You might also like [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,019 | 🐛 23 | 📅 2026-09-08.*
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ***
 
 ## Contents
 
-* Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,298 | 🐛 106 | 📅 2026-09-02
+* Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,598 | 🐛 106 | 📅 2026-09-02
   * [Contents](#contents)
   * [Packages](#packages)
     * [AST](#ast)
@@ -200,7 +200,7 @@ to build any web application. It is focused on making you, the developer, as pro
 * [emberfire](https://github.com/firebase/emberfire) ⚠️ Archived - Official Ember Data adapter for Firebase.
 * [ember-pouch](https://github.com/pouchdb-community/ember-pouch) ⭐ 279 | 🐛 47 | 🌐 JavaScript | 📅 2023-02-02 - PouchDB/CouchDB adapter for Ember Data.
 * [ember-local-storage](https://github.com/funkensturm/ember-local-storage) ⭐ 220 | 🐛 32 | 🌐 JavaScript | 📅 2024-02-07 - The addon provides a storage for computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
-* [ember-django-adapter](https://github.com/dustinfarris/ember-django-adapter) ⭐ 192 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-08 - Ember CLI addon adapter for Django REST Framework.
+* [ember-django-adapter](https://github.com/dustinfarris/ember-django-adapter) ⭐ 192 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-13 - Ember CLI addon adapter for Django REST Framework.
 * [ember-localforage-adapter](https://github.com/genkgo/ember-localforage-adapter) ⭐ 131 | 🐛 5 | 🌐 JavaScript | 📅 2019-10-31 - Offline usage for Ember Data.
 * [ember-wordpress](https://github.com/oskarrough/ember-wordpress) ⭐ 96 | 🐛 4 | 🌐 JavaScript | 📅 2021-08-30 - The bridge between Ember.js and WordPress.
 * [ember-cloud-firestore-adapter](https://github.com/rmmmp/ember-cloud-firestore-adapter) ⭐ 70 | 🐛 7 | 🌐 TypeScript | 📅 2025-07-08 - Unofficial Ember Data Adapter and Serializer for Cloud Firestore.
@@ -461,7 +461,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Functional programming
 
-* [immutable](https://github.com/facebook/immutable-js) ⭐ 33,030 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-10 - Immutable data collections.
+* [immutable](https://github.com/facebook/immutable-js) ⭐ 33,031 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-10 - Immutable data collections.
 * [Lazy.js](https://github.com/dtao/lazy.js) ⭐ 5,965 | 🐛 59 | 🌐 JavaScript | 📅 2020-07-15 - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
 * [Kefir.js](https://github.com/rpominov/kefir) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2017-11-05 - Reactive library with focus on high performance and low memory usage.
 * [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
@@ -539,7 +539,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Mad science
 
-* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,683 | 🐛 405 | 🌐 JavaScript | 📅 2026-07-26 - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,698 | 🐛 406 | 🌐 JavaScript | 📅 2026-07-26 - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 * [ember-elm](https://github.com/nucleartide/ember-elm) ⭐ 56 | 🐛 30 | 🌐 JavaScript | 📅 2022-12-09 - Write Elm in your Ember.js app.
 
 ### Math
@@ -710,11 +710,11 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### UI libs
 
-* [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) ⭐ 16,878 | 🐛 1,626 | 🌐 Go | 📅 2026-09-11
+* [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) ⭐ 16,899 | 🐛 1,626 | 🌐 Go | 📅 2026-09-11
 * [ember-paper](https://github.com/miguelcobain/ember-paper) ⭐ 879 | 🐛 206 | 🌐 JavaScript | 📅 2026-07-27 - The Ember.js approach to Material Design.
 * [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) ⭐ 325 | 🐛 52 | 🌐 JavaScript | 📅 2022-12-07 - This is the official Ember.js library for the Semantic-UI modules.
 * [Flexi](https://github.com/html-next/flexi) ⭐ 217 | 🐛 13 | 🌐 JavaScript | 📅 2024-11-01
-* [Frontile](https://github.com/josemarluedke/frontile) ⭐ 58 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-11 - Frontile aims to provide the legos (components, helpers, modifiers, and styles) necessary for building consistent and powerful Ember.js apps.
+* [Frontile](https://github.com/josemarluedke/frontile) ⭐ 58 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-12 - Frontile aims to provide the legos (components, helpers, modifiers, and styles) necessary for building consistent and powerful Ember.js apps.
 * [ember-elements](https://github.com/dunkinbase/ember-elements) ⭐ 56 | 🐛 16 | 🌐 TypeScript | 📅 2023-10-28 - [a UI toolkit in Ember](https://dunkinbase.github.io/ember-elements/)
 * [ember-ghost-casper-template](https://github.com/stonecircle/ember-ghost-casper-template) ⭐ 40 | 🐛 17 | 🌐 JavaScript | 📅 2025-10-24 - A static site version of the default personal blogging theme for Ghost.
 * [ember-cli-uniq](https://github.com/uniplaces/ember-cli-uniq/) ⭐ 3 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-07 - Default components for Ember.js that implement the Uniplaces Design System.
@@ -772,7 +772,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Resources
 
-* [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) ⭐ 17,338 | 🐛 0 | 📅 2025-03-23
+* [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) ⭐ 17,339 | 🐛 0 | 📅 2025-03-23
 * [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
 ### Articles
@@ -1165,7 +1165,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Books
 
-* [Pragmatic, balanced FP in JavaScript](https://github.com/getify/Functional-Light-JS) ⭐ 16,735 | 🐛 27 | 🌐 JavaScript | 📅 2023-12-26
+* [Pragmatic, balanced FP in JavaScript](https://github.com/getify/Functional-Light-JS) ⭐ 16,734 | 🐛 27 | 🌐 JavaScript | 📅 2023-12-26
 * [A deep dive into the Ember.js runloop](https://github.com/eoinkelly/ember-runloop-handbook) ⭐ 365 | 🐛 0 | 🌐 JavaScript | 📅 2019-05-20
 * [The Shortest Ember.js Book](https://github.com/ember-learn/the-shortest-ember-book) ⭐ 38 | 🐛 7 | 🌐 CSS | 📅 2026-02-17
 * [Developing an Ember.js Edge](https://gumroad.com/l/xlsx)
@@ -1203,7 +1203,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Community
 
-* [GitHub issues](https://github.com/emberjs/ember.js/issues) ⭐ 22,570 | 🐛 278 | 🌐 TypeScript | 📅 2026-09-12
+* [GitHub issues](https://github.com/emberjs/ember.js/issues) ⭐ 22,570 | 🐛 278 | 🌐 TypeScript | 📅 2026-09-13
 * [Forum](http://discuss.emberjs.com/)
 * [Reddit](https://www.reddit.com/r/emberjs/)
 * [Slack](https://embercommunity.slack.com)
@@ -1246,9 +1246,9 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Examples
 
-* [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) ⭐ 36,233 | 🐛 1,434 | 🌐 Go | 📅 2026-09-11 - A Tool for Managing Secrets (Hashicorp).
+* [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) ⭐ 36,234 | 🐛 1,434 | 🌐 Go | 📅 2026-09-11 - A Tool for Managing Secrets (Hashicorp).
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) ⚠️ Archived - Ember.js front end for HospitalRun [hospitalrun.io](http://hospitalrun.io/).
-* [Rust Package Registry](https://github.com/rust-lang/crates.io) ⭐ 3,697 | 🐛 116 | 🌐 Rust | 📅 2026-09-12 - [crates.io](https://crates.io)
+* [Rust Package Registry](https://github.com/rust-lang/crates.io) ⭐ 3,697 | 🐛 117 | 🌐 Rust | 📅 2026-09-13 - [crates.io](https://crates.io)
 * [documize.com](https://github.com/documize/community) ⭐ 2,416 | 🐛 46 | 🌐 JavaScript | 📅 2026-05-18
 * [Ghost Admin Client](https://github.com/TryGhost/Ghost-Admin) ⚠️ Archived
 * [Rancher](https://github.com/rancher/ui) ⭐ 623 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-25 - [Rancher](http://rancher.com) is enterprise management for Kubernetes.
@@ -1572,4 +1572,4 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
