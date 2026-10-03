@@ -17,8 +17,8 @@
                 "id": 31795422,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T07:10:53Z",
-                "open_issues": 156,
+                "last_commit": "2026-10-03T02:48:10Z",
+                "open_issues": 157,
                 "owner": "facebook",
                 "repo": "jscodeshift",
                 "stars": 10039,
@@ -694,14 +694,14 @@
               "description": "GraphQL adapter for Ember Data.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "GraphQL adapter for Ember Data",
                 "homepage": null,
                 "id": 45475573,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2025-05-19T12:31:01Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-02T21:21:44Z",
+                "open_issues": 9,
                 "owner": "alphasights",
                 "repo": "ember-graphql-adapter",
                 "stars": 0,
@@ -782,7 +782,7 @@
                 "id": 12570984,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T02:08:13Z",
+                "last_commit": "2026-10-02T22:02:55Z",
                 "open_issues": 78,
                 "owner": "mainmatter",
                 "repo": "ember-simple-auth",
@@ -1758,7 +1758,7 @@
             {
               "node_type": "item",
               "title": "ember-diff-attrs",
-              "description": null,
+              "description": "workmanw/ember-diff-attrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2016,7 +2016,7 @@
                 "open_issues": 62,
                 "owner": "linkedin",
                 "repo": "eyeglass",
-                "stars": 738,
+                "stars": 736,
                 "topics": [
                   "css",
                   "eyeglass",
@@ -2270,7 +2270,7 @@
             {
               "node_type": "item",
               "title": "ember-changeset",
-              "description": null,
+              "description": "adopted-ember-addons/ember-changeset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2291,7 +2291,7 @@
             {
               "node_type": "item",
               "title": "ember-state-services",
-              "description": null,
+              "description": "stefanpenner/ember-state-services",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2312,7 +2312,7 @@
             {
               "node_type": "item",
               "title": "ember-buffered-proxy",
-              "description": null,
+              "description": "yapplabs/ember-buffered-proxy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2333,7 +2333,7 @@
             {
               "node_type": "item",
               "title": "ember-time-machine",
-              "description": null,
+              "description": "offirgolan/ember-time-machine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3201,7 +3201,7 @@
                 "id": 273067390,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T05:20:53Z",
+                "last_commit": "2026-10-02T22:39:51Z",
                 "open_issues": 19,
                 "owner": "simonihmig",
                 "repo": "ember-stargate",
@@ -3304,7 +3304,7 @@
                 "id": 33876832,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-01T04:34:21Z",
+                "last_commit": "2026-10-02T21:57:21Z",
                 "open_issues": 38,
                 "owner": "ember-decorators",
                 "repo": "ember-decorators",
@@ -3597,7 +3597,7 @@
                 "open_issues": 145,
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33031,
+                "stars": 33030,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:08.294Z"
@@ -3618,7 +3618,7 @@
                 "open_issues": 59,
                 "owner": "dtao",
                 "repo": "lazy.js",
-                "stars": 5965,
+                "stars": 5964,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:08.294Z"
@@ -4379,7 +4379,7 @@
             {
               "node_type": "item",
               "title": "ember-data-tasks",
-              "description": null,
+              "description": "knownasilya/ember-data-tasks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4406,7 +4406,7 @@
             {
               "node_type": "item",
               "title": "ember-pipeline",
-              "description": null,
+              "description": "poteto/ember-pipeline",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4482,7 +4482,7 @@
                 "open_issues": 408,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196866,
+                "stars": 196867,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -4861,8 +4861,8 @@
                 "id": 119754918,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T09:25:01Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-03T01:11:21Z",
+                "open_issues": 8,
                 "owner": "nickschot",
                 "repo": "ember-mobile-pane",
                 "stars": 4,
@@ -4959,7 +4959,7 @@
                 "id": 175091751,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:33:25Z",
+                "last_commit": "2026-10-02T21:02:24Z",
                 "open_issues": 14,
                 "owner": "jelhan",
                 "repo": "ember-style-modifier",
@@ -5351,7 +5351,7 @@
             {
               "node_type": "item",
               "title": "ember-service-worker-asset-cache",
-              "description": null,
+              "description": "DockYard/ember-service-worker-asset-cache",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5372,7 +5372,7 @@
             {
               "node_type": "item",
               "title": "ember-service-worker-index",
-              "description": null,
+              "description": "DockYard/ember-service-worker-index",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5393,7 +5393,7 @@
             {
               "node_type": "item",
               "title": "ember-service-worker-cache-fallback",
-              "description": null,
+              "description": "DockYard/ember-service-worker-cache-fallback",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5414,7 +5414,7 @@
             {
               "node_type": "item",
               "title": "ember-service-worker-cache-first",
-              "description": null,
+              "description": "DockYard/ember-service-worker-cache-first",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5435,7 +5435,7 @@
             {
               "node_type": "item",
               "title": "ember-service-worker-prember",
-              "description": null,
+              "description": "shipshapecode/ember-service-worker-prember",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6042,7 +6042,7 @@
                 "open_issues": 144,
                 "owner": "ember-fastboot",
                 "repo": "ember-cli-fastboot",
-                "stars": 850,
+                "stars": 849,
                 "topics": [
                   "fastboot",
                   "hacktoberfest"
@@ -6318,7 +6318,7 @@
                 "id": 52875107,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T05:55:49Z",
+                "last_commit": "2026-10-02T22:23:22Z",
                 "open_issues": 17,
                 "owner": "mainmatter",
                 "repo": "ember-test-selectors",
@@ -6441,7 +6441,7 @@
                 "id": 104937894,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T22:01:50Z",
+                "last_commit": "2026-10-02T22:53:57Z",
                 "open_issues": 15,
                 "owner": "simonihmig",
                 "repo": "ember-window-mock",
@@ -6787,7 +6787,7 @@
             {
               "node_type": "item",
               "title": "Nomad UI",
-              "description": null,
+              "description": "hashicorp/nomad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6796,8 +6796,8 @@
                 "id": 36653430,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T09:49:49Z",
-                "open_issues": 1630,
+                "last_commit": "2026-10-02T19:27:35Z",
+                "open_issues": 1631,
                 "owner": "hashicorp",
                 "repo": "nomad",
                 "stars": 16988,
@@ -6855,7 +6855,7 @@
             {
               "node_type": "item",
               "title": "Flexi",
-              "description": null,
+              "description": "html-next/flexi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7283,7 +7283,7 @@
             {
               "node_type": "item",
               "title": "Atom Ember Snippets",
-              "description": null,
+              "description": "mattmcmanus/atom-ember-snippets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7370,7 +7370,7 @@
             {
               "node_type": "item",
               "title": "glimmer-compiler-webpack-plugin",
-              "description": null,
+              "description": "tomdale/glimmer-compiler-webpack-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7426,7 +7426,7 @@
             {
               "node_type": "item",
               "title": "Front-End Performance Checklist",
-              "description": null,
+              "description": "thedaviddias/Front-End-Performance-Checklist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7439,7 +7439,7 @@
                 "open_issues": 0,
                 "owner": "thedaviddias",
                 "repo": "Front-End-Performance-Checklist",
-                "stars": 17362,
+                "stars": 17360,
                 "topics": [
                   "checklist",
                   "css",
@@ -7469,7 +7469,7 @@
             {
               "node_type": "item",
               "title": "A collection of links that summarize EmberConf 2016",
-              "description": null,
+              "description": "poteto/emberconf-2016",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7490,7 +7490,7 @@
             {
               "node_type": "item",
               "title": "A collection of links that summarize EmberConf 2015",
-              "description": null,
+              "description": "poteto/emberconf-2015",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7511,7 +7511,7 @@
             {
               "node_type": "item",
               "title": "Error Handling",
-              "description": null,
+              "description": "pixelhandler/ember-jsonapi-resources",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7536,7 +7536,7 @@
             {
               "node_type": "item",
               "title": "A collection of links that summarize EmberConf 2017",
-              "description": null,
+              "description": "poteto/emberconf-2017",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7564,7 +7564,7 @@
             {
               "node_type": "item",
               "title": "A collection of links that summarize EmberConf 2018",
-              "description": null,
+              "description": "nucleartide/emberconf-2018",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7590,7 +7590,7 @@
             {
               "node_type": "item",
               "title": "A list of EmberJS2018 blog posts and ideas",
-              "description": null,
+              "description": "zinyando/emberjs2018-posts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7611,7 +7611,7 @@
             {
               "node_type": "item",
               "title": "Ember.js 2019 Roadmap Posts",
-              "description": null,
+              "description": "abhilashlr/emberjs2019-posts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7632,7 +7632,7 @@
             {
               "node_type": "item",
               "title": "EmberConf 2019 Links and Notes",
-              "description": null,
+              "description": "dknutsen/emberconf-2019",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7660,7 +7660,7 @@
             {
               "node_type": "item",
               "title": "Git Guides",
-              "description": null,
+              "description": "glimmerjs/glimmer-vm",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7693,7 +7693,7 @@
             {
               "node_type": "item",
               "title": "Pragmatic, balanced FP in JavaScript",
-              "description": null,
+              "description": "getify/Functional-Light-JS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7706,7 +7706,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16729,
+                "stars": 16728,
                 "topics": [
                   "book",
                   "education",
@@ -7721,7 +7721,7 @@
             {
               "node_type": "item",
               "title": "A deep dive into the Ember.js runloop",
-              "description": null,
+              "description": "eoinkelly/ember-runloop-handbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7750,7 +7750,7 @@
             {
               "node_type": "item",
               "title": "The Shortest Ember.js Book",
-              "description": null,
+              "description": "ember-learn/the-shortest-ember-book",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8100,7 +8100,7 @@
             {
               "node_type": "item",
               "title": "GitHub issues",
-              "description": null,
+              "description": "emberjs/ember.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8110,10 +8110,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T07:32:48Z",
-                "open_issues": 267,
+                "open_issues": 272,
                 "owner": "emberjs",
                 "repo": "ember.js",
-                "stars": 22566,
+                "stars": 22564,
                 "topics": [
                   "ember",
                   "hacktoberfest",
@@ -8142,11 +8142,11 @@
                 "id": 31288958,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T05:03:01Z",
+                "last_commit": "2026-10-02T22:02:52Z",
                 "open_issues": 1448,
                 "owner": "hashicorp",
                 "repo": "vault",
-                "stars": 36333,
+                "stars": 36335,
                 "topics": [
                   "go",
                   "secrets",
@@ -8171,7 +8171,7 @@
                 "open_issues": 72,
                 "owner": "HospitalRun",
                 "repo": "hospitalrun-frontend",
-                "stars": 6884,
+                "stars": 6885,
                 "topics": [
                   "couchdb",
                   "emr",
@@ -8200,8 +8200,8 @@
                 "id": 21365581,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T12:49:35Z",
-                "open_issues": 112,
+                "last_commit": "2026-10-03T04:23:41Z",
+                "open_issues": 114,
                 "owner": "rust-lang",
                 "repo": "crates.io",
                 "stars": 3712,
@@ -8215,7 +8215,7 @@
             {
               "node_type": "item",
               "title": "documize.com",
-              "description": null,
+              "description": "documize/community",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8256,7 +8256,7 @@
             {
               "node_type": "item",
               "title": "Ghost Admin Client",
-              "description": null,
+              "description": "TryGhost/Admin",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8341,7 +8341,7 @@
                 "id": 3056468,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-01T22:13:31Z",
+                "last_commit": "2026-10-02T20:26:23Z",
                 "open_issues": 80,
                 "owner": "skylines-project",
                 "repo": "skylines",
@@ -8364,7 +8364,7 @@
             {
               "node_type": "item",
               "title": "A list of open source Ember.js apps",
-              "description": null,
+              "description": "EmberSherpa/open-source-ember-apps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8498,7 +8498,7 @@
             {
               "node_type": "item",
               "title": "ember-styleguide",
-              "description": null,
+              "description": "ember-learn/ember-styleguide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8533,7 +8533,7 @@
                 "id": 47560189,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T12:34:10Z",
+                "last_commit": "2026-10-02T17:08:32Z",
                 "open_issues": 61,
                 "owner": "ember-learn",
                 "repo": "ember-api-docs",
@@ -8550,7 +8550,7 @@
             {
               "node_type": "item",
               "title": "New York City Census Reporting Tool",
-              "description": null,
+              "description": "NYCPlanning/labs-factfinder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8629,7 +8629,7 @@
             {
               "node_type": "item",
               "title": "Simple contact manager demo app for ember-orbit",
-              "description": null,
+              "description": "cerebris/peeps-ember-orbit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8650,7 +8650,7 @@
             {
               "node_type": "item",
               "title": "A wild tomster appears",
-              "description": null,
+              "description": "scudco/tomsweeper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8701,8 +8701,8 @@
                 "id": 438315051,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T13:45:36Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-02T14:26:32Z",
+                "open_issues": 13,
                 "owner": "1024pix",
                 "repo": "pix-editor",
                 "stars": 7,
@@ -8740,7 +8740,7 @@
             {
               "node_type": "item",
               "title": "ember-monorepo-demo",
-              "description": null,
+              "description": "lennyburdette/ember-monorepo-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8761,7 +8761,7 @@
             {
               "node_type": "item",
               "title": "An ember integration for building visual programming editors with blockly.",
-              "description": null,
+              "description": "Program-AR/ember-blockly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8782,7 +8782,7 @@
             {
               "node_type": "item",
               "title": "Ember.js nested engines example app + Fastboot.",
-              "description": null,
+              "description": "catz/eng-test",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9330,7 +9330,7 @@
             {
               "node_type": "item",
               "title": "A list of Ember.js VSCode Extensions",
-              "description": null,
+              "description": "Alonski/ember-vscode-extensions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9351,7 +9351,7 @@
             {
               "node_type": "item",
               "title": "ember-cli-advanced-proxy",
-              "description": null,
+              "description": "bryanaka/ember-cli-advanced-proxy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9412,7 +9412,7 @@
             {
               "node_type": "item",
               "title": "ember-styleguide",
-              "description": null,
+              "description": "ember-learn/ember-styleguide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9438,7 +9438,7 @@
             {
               "node_type": "item",
               "title": "Softlayer Ember.js",
-              "description": null,
+              "description": "softlayer/ember-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9673,7 +9673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:51:29.980Z",
+    "last_updated": "2026-10-03T04:42:43.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ember.js stuff like addons, articles, videos, gists and more.",
