@@ -21,7 +21,7 @@
                 "open_issues": 157,
                 "owner": "facebook",
                 "repo": "jscodeshift",
-                "stars": 10039,
+                "stars": 10038,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:08.294Z"
@@ -782,7 +782,7 @@
                 "id": 12570984,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T09:54:16Z",
+                "last_commit": "2026-10-04T01:06:17Z",
                 "open_issues": 78,
                 "owner": "mainmatter",
                 "repo": "ember-simple-auth",
@@ -2446,7 +2446,7 @@
                 "id": 78405075,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T13:10:45Z",
+                "last_commit": "2026-10-04T04:36:09Z",
                 "open_issues": 29,
                 "owner": "ember-graphql",
                 "repo": "ember-apollo-client",
@@ -2794,7 +2794,7 @@
                 "open_issues": 57,
                 "owner": "danvk",
                 "repo": "source-map-explorer",
-                "stars": 3930,
+                "stars": 3931,
                 "topics": [
                   "javascript",
                   "minification",
@@ -3597,7 +3597,7 @@
                 "open_issues": 145,
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33030,
+                "stars": 33029,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:08.294Z"
@@ -4482,7 +4482,7 @@
                 "open_issues": 408,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196868,
+                "stars": 196866,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -4648,7 +4648,7 @@
                 "id": 78683617,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-08T19:20:32Z",
+                "last_commit": "2026-10-03T23:24:12Z",
                 "open_issues": 56,
                 "owner": "mainmatter",
                 "repo": "ember-hbs-minifier",
@@ -4861,8 +4861,8 @@
                 "id": 119754918,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T12:24:07Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-04T01:30:40Z",
+                "open_issues": 13,
                 "owner": "nickschot",
                 "repo": "ember-mobile-pane",
                 "stars": 4,
@@ -4959,7 +4959,7 @@
                 "id": 175091751,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T09:44:42Z",
+                "last_commit": "2026-10-03T22:00:34Z",
                 "open_issues": 14,
                 "owner": "jelhan",
                 "repo": "ember-style-modifier",
@@ -6800,7 +6800,7 @@
                 "open_issues": 1631,
                 "owner": "hashicorp",
                 "repo": "nomad",
-                "stars": 16988,
+                "stars": 16986,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:08.294Z"
@@ -6891,7 +6891,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-25T18:32:47Z",
-                "open_issues": 5,
+                "open_issues": 9,
                 "owner": "josemarluedke",
                 "repo": "frontile",
                 "stars": 59,
@@ -7439,7 +7439,7 @@
                 "open_issues": 0,
                 "owner": "thedaviddias",
                 "repo": "Front-End-Performance-Checklist",
-                "stars": 17360,
+                "stars": 17361,
                 "topics": [
                   "checklist",
                   "css",
@@ -7706,7 +7706,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16729,
+                "stars": 16730,
                 "topics": [
                   "book",
                   "education",
@@ -8109,11 +8109,11 @@
                 "id": 1801829,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T07:35:01Z",
-                "open_issues": 272,
+                "last_commit": "2026-10-04T09:19:17Z",
+                "open_issues": 275,
                 "owner": "emberjs",
                 "repo": "ember.js",
-                "stars": 22564,
+                "stars": 22565,
                 "topics": [
                   "ember",
                   "hacktoberfest",
@@ -8143,10 +8143,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T22:02:52Z",
-                "open_issues": 1448,
+                "open_issues": 1453,
                 "owner": "hashicorp",
                 "repo": "vault",
-                "stars": 36336,
+                "stars": 36338,
                 "topics": [
                   "go",
                   "secrets",
@@ -8200,11 +8200,11 @@
                 "id": 21365581,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T12:25:41Z",
+                "last_commit": "2026-10-04T12:23:35Z",
                 "open_issues": 114,
                 "owner": "rust-lang",
                 "repo": "crates.io",
-                "stars": 3713,
+                "stars": 3715,
                 "topics": [
                   "hacktoberfest",
                   "rust"
@@ -9526,7 +9526,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-01-13T20:34:07Z",
-                "open_issues": 10,
+                "open_issues": 9,
                 "owner": "bmac",
                 "repo": "ember-data-sails-adapter",
                 "stars": 89,
@@ -9673,7 +9673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:33:17.731Z",
+    "last_updated": "2026-10-04T13:11:27.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ember.js stuff like addons, articles, videos, gists and more.",
