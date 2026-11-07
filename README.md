@@ -30,14 +30,14 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ***
 
-*You might also like [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,032 | 🐛 36 | 📅 2026-10-25.*
+*You might also like [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,033 | 🐛 35 | 📅 2026-10-25.*
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ***
 
 ## Contents
 
-* Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,190 | 🐛 103 | 📅 2026-09-02
+* Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,893 | 🐛 103 | 📅 2026-09-02
   * [Contents](#contents)
   * [Packages](#packages)
     * [AST](#ast)
@@ -217,7 +217,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Authentication
 
-* [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) ⭐ 1,903 | 🐛 80 | 🌐 JavaScript | 📅 2026-11-06 - A library for implementing authentication/authorization in Ember.js applications.
+* [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) ⭐ 1,903 | 🐛 80 | 🌐 JavaScript | 📅 2026-11-07 - A library for implementing authentication/authorization in Ember.js applications.
 * [ember-cli-simple-auth-extensions](https://emberobserver.com/categories/ember-cli-simple-auth-extensions)
 * [tori](https://github.com/Vestorly/torii) - A set of clean abstractions for authentication in Ember.js.
 
@@ -461,7 +461,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Functional programming
 
-* [immutable](https://github.com/facebook/immutable-js) ⭐ 33,017 | 🐛 155 | 🌐 TypeScript | 📅 2026-11-05 - Immutable data collections.
+* [immutable](https://github.com/facebook/immutable-js) ⭐ 33,018 | 🐛 157 | 🌐 TypeScript | 📅 2026-11-05 - Immutable data collections.
 * [Lazy.js](https://github.com/dtao/lazy.js) ⭐ 5,961 | 🐛 59 | 🌐 JavaScript | 📅 2020-07-15 - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
 * [Kefir.js](https://github.com/rpominov/kefir) ⭐ 3 | 🐛 0 | 🌐 HTML | 📅 2017-11-05 - Reactive library with focus on high performance and low memory usage.
 * [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
@@ -480,7 +480,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Helpers
 
-* [ember-truth-helpers](https://github.com/jmurphyau/ember-truth-helpers) ⭐ 700 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-23 - Ember.js HTMLBars Helpers for `{{if}}` & `{{unless}}`: not, and, or, eq & is-array.
+* [ember-truth-helpers](https://github.com/jmurphyau/ember-truth-helpers) ⭐ 700 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-23 - Ember.js HTMLBars Helpers for `{{if}}` & `{{unless}}`: not, and, or, eq & is-array.
 * [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) ⭐ 629 | 🐛 46 | 🌐 JavaScript | 📅 2024-05-21 - Composable helpers for declarative templating in Ember.js.
 * [ember-route-action-helper](https://github.com/DockYard/ember-route-action-helper) ⭐ 325 | 🐛 35 | 🌐 JavaScript | 📅 2023-01-06 - Bubble closure actions in routes.
 * [ember-promise-helpers](https://github.com/fivetanley/ember-promise-helpers) ⭐ 205 | 🐛 18 | 🌐 JavaScript | 📅 2023-12-01 - Promise-y sugar for your Ember.js templates.
@@ -539,7 +539,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Mad science
 
-* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,716 | 🐛 437 | 🌐 JavaScript | 📅 2026-07-26 - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,719 | 🐛 437 | 🌐 JavaScript | 📅 2026-07-26 - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 * [ember-elm](https://github.com/nucleartide/ember-elm) ⭐ 56 | 🐛 30 | 🌐 JavaScript | 📅 2022-12-09 - Write Elm in your Ember.js app.
 
 ### Math
@@ -567,7 +567,7 @@ to build any web application. It is focused on making you, the developer, as pro
 * [corber](https://github.com/isleofcode/corber) ⭐ 329 | 🐛 25 | 🌐 JavaScript | 📅 2023-03-24 - Tooling for cordova and crosswalk hybrid applications built with Ember.js.
 * [glimmer-native](https://github.com/bakerac4/glimmer-native) ⭐ 76 | 🐛 22 | 🌐 TypeScript | 📅 2025-09-29 - Have you ever wanted to use Ember.js/Glimmer.js to create a native mobile app? Well now you can!
 * [ember-responsive](https://github.com/freshbooks/ember-responsive) ⭐ 41 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-05 - Easy responsive layouts with Ember.js.
-* [ember-mobile-menu](https://github.com/nickschot/ember-mobile-menu) ⭐ 36 | 🐛 36 | 🌐 JavaScript | 📅 2026-11-06 - Draggable sidebar specifically tailored to mobile devices.
+* [ember-mobile-menu](https://github.com/nickschot/ember-mobile-menu) ⭐ 36 | 🐛 36 | 🌐 JavaScript | 📅 2026-11-07 - Draggable sidebar specifically tailored to mobile devices.
 * [ember-mobile-core](https://github.com/nickschot/ember-mobile-core) ⭐ 11 | 🐛 4 | 🌐 JavaScript | 📅 2020-03-20 - Provides a pan recognizer and some utils for the ember-mobile-\* addons.
 * [ember-mobile-bar](https://github.com/nickschot/ember-mobile-bar) ⭐ 6 | 🐛 3 | 🌐 JavaScript | 📅 2018-09-06 - Managed fixed (tool)bars with mobile app-like behaviour.
 * [ember-mobile-pane](https://github.com/nickschot/ember-mobile-pane) ⭐ 4 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-03 - Mobile layout ember-mobile-pane.
@@ -676,7 +676,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Testing
 
-* [ember-exam](https://github.com/trentmwillis/ember-exam) ⭐ 290 | 🐛 30 | 🌐 JavaScript | 📅 2026-11-02 - Run your tests with randomization, splitting, and parallelization for beautiful tests.
+* [ember-exam](https://github.com/trentmwillis/ember-exam) ⭐ 290 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-06 - Run your tests with randomization, splitting, and parallelization for beautiful tests.
 * [ember-cli-page-object](https://github.com/san650/ember-cli-page-object) ⭐ 275 | 🐛 31 | 🌐 TypeScript | 📅 2025-10-27 - This ember-cli addon eases the construction of page objects on your acceptance and integration tests.
 * [ember-test-selectors](https://github.com/simplabs/ember-test-selectors) ⭐ 262 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-30 - Enabling better element selectors in Ember.js tests.
 * [ember-qunit](https://github.com/emberjs/ember-qunit) ⭐ 258 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-29 - QUnit test helpers for Ember.js.
@@ -710,11 +710,11 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### UI libs
 
-* [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) ⭐ 17,079 | 🐛 1,619 | 🌐 Go | 📅 2026-11-05
+* [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) ⭐ 17,080 | 🐛 1,622 | 🌐 Go | 📅 2026-11-05
 * [ember-paper](https://github.com/miguelcobain/ember-paper) ⭐ 876 | 🐛 205 | 🌐 JavaScript | 📅 2026-07-27 - The Ember.js approach to Material Design.
 * [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) ⭐ 324 | 🐛 52 | 🌐 JavaScript | 📅 2022-12-07 - This is the official Ember.js library for the Semantic-UI modules.
 * [Flexi](https://github.com/html-next/flexi) ⭐ 217 | 🐛 13 | 🌐 JavaScript | 📅 2024-11-01
-* [Frontile](https://github.com/josemarluedke/frontile) ⭐ 60 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-05 - Frontile aims to provide the legos (components, helpers, modifiers, and styles) necessary for building consistent and powerful Ember.js apps.
+* [Frontile](https://github.com/josemarluedke/frontile) ⭐ 60 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-06 - Frontile aims to provide the legos (components, helpers, modifiers, and styles) necessary for building consistent and powerful Ember.js apps.
 * [ember-elements](https://github.com/dunkinbase/ember-elements) ⭐ 55 | 🐛 16 | 🌐 TypeScript | 📅 2023-10-28 - [a UI toolkit in Ember](https://dunkinbase.github.io/ember-elements/)
 * [ember-ghost-casper-template](https://github.com/stonecircle/ember-ghost-casper-template) ⭐ 40 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-18 - A static site version of the default personal blogging theme for Ghost.
 * [ember-cli-uniq](https://github.com/uniplaces/ember-cli-uniq/) ⭐ 3 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-07 - Default components for Ember.js that implement the Uniplaces Design System.
@@ -724,9 +724,9 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### UI components
 
-* [ember-power-select](https://github.com/cibernox/ember-power-select) ⭐ 539 | 🐛 70 | 🌐 TypeScript | 📅 2026-11-06 - The extensible select component built for ember.
+* [ember-power-select](https://github.com/cibernox/ember-power-select) ⭐ 539 | 🐛 72 | 🌐 TypeScript | 📅 2026-11-07 - The extensible select component built for ember.
 * [ember-burger-menu](https://github.com/offirgolan/ember-burger-menu) ⭐ 273 | 🐛 32 | 🌐 JavaScript | 📅 2025-12-01 - An off-canvas sidebar component with a collection of animations and styles using CSS transitions.
-* [ember-basic-dropdown](https://github.com/cibernox/ember-basic-dropdown) ⭐ 158 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-31 - The basic dropdown you ember app needs.
+* [ember-basic-dropdown](https://github.com/cibernox/ember-basic-dropdown) ⭐ 158 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-07 - The basic dropdown you ember app needs.
 * [ember-flatpickr](https://github.com/shipshapecode/ember-flatpickr) ⭐ 107 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-07 - An Ember.js addon that wraps the Flatpickr date picker.
 * [ember-drag-sort](https://github.com/kaliber5/ember-drag-sort) ⭐ 92 | 🐛 13 | 🌐 JavaScript | 📅 2026-06-18 - A sortable list component with support for multiple and nested lists.
 * [ember-perfect-scroll](https://github.com/imanhodjaev/ember-perfect-scroll) ⚠️ Archived - Perfect scroll component as an Ember cli addon.
@@ -1165,7 +1165,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Books
 
-* [Pragmatic, balanced FP in JavaScript](https://github.com/getify/Functional-Light-JS) ⭐ 16,717 | 🐛 27 | 🌐 JavaScript | 📅 2023-12-26
+* [Pragmatic, balanced FP in JavaScript](https://github.com/getify/Functional-Light-JS) ⭐ 16,718 | 🐛 27 | 🌐 JavaScript | 📅 2023-12-26
 * [A deep dive into the Ember.js runloop](https://github.com/eoinkelly/ember-runloop-handbook) ⭐ 365 | 🐛 0 | 🌐 JavaScript | 📅 2019-05-20
 * [The Shortest Ember.js Book](https://github.com/ember-learn/the-shortest-ember-book) ⭐ 38 | 🐛 7 | 🌐 CSS | 📅 2026-02-17
 * [Developing an Ember.js Edge](https://gumroad.com/l/xlsx)
@@ -1203,7 +1203,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Community
 
-* [GitHub issues](https://github.com/emberjs/ember.js/issues) ⭐ 22,568 | 🐛 282 | 🌐 TypeScript | 📅 2026-11-06
+* [GitHub issues](https://github.com/emberjs/ember.js/issues) ⭐ 22,568 | 🐛 282 | 🌐 TypeScript | 📅 2026-11-07
 * [Forum](http://discuss.emberjs.com/)
 * [Reddit](https://www.reddit.com/r/emberjs/)
 * [Slack](https://embercommunity.slack.com)
@@ -1246,9 +1246,9 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Examples
 
-* [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) ⭐ 36,472 | 🐛 1,486 | 🌐 Go | 📅 2026-11-06 - A Tool for Managing Secrets (Hashicorp).
+* [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) ⭐ 36,478 | 🐛 1,489 | 🌐 Go | 📅 2026-11-07 - A Tool for Managing Secrets (Hashicorp).
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) ⚠️ Archived - Ember.js front end for HospitalRun [hospitalrun.io](http://hospitalrun.io/).
-* [Rust Package Registry](https://github.com/rust-lang/crates.io) ⭐ 3,741 | 🐛 116 | 🌐 Rust | 📅 2026-11-06 - [crates.io](https://crates.io)
+* [Rust Package Registry](https://github.com/rust-lang/crates.io) ⭐ 3,742 | 🐛 115 | 🌐 Rust | 📅 2026-11-07 - [crates.io](https://crates.io)
 * [documize.com](https://github.com/documize/community) ⭐ 2,425 | 🐛 48 | 🌐 JavaScript | 📅 2026-05-18
 * [Ghost Admin Client](https://github.com/TryGhost/Ghost-Admin) ⚠️ Archived
 * [Rancher](https://github.com/rancher/ui) ⭐ 624 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-28 - [Rancher](http://rancher.com) is enterprise management for Kubernetes.
@@ -1572,4 +1572,4 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
