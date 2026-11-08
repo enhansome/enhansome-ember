@@ -3597,7 +3597,7 @@
                 "open_issues": 157,
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33018,
+                "stars": 33019,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:08.294Z"
@@ -4482,7 +4482,7 @@
                 "open_issues": 437,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196719,
+                "stars": 196724,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -4648,8 +4648,8 @@
                 "id": 78683617,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T10:29:25Z",
-                "open_issues": 56,
+                "last_commit": "2026-11-08T10:47:18Z",
+                "open_issues": 54,
                 "owner": "mainmatter",
                 "repo": "ember-hbs-minifier",
                 "stars": 49,
@@ -6797,10 +6797,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-05T15:41:09Z",
-                "open_issues": 1622,
+                "open_issues": 1623,
                 "owner": "hashicorp",
                 "repo": "nomad",
-                "stars": 17080,
+                "stars": 17084,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:08.294Z"
@@ -8109,11 +8109,11 @@
                 "id": 1801829,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T07:24:14Z",
-                "open_issues": 282,
+                "last_commit": "2026-11-08T07:21:44Z",
+                "open_issues": 283,
                 "owner": "emberjs",
                 "repo": "ember.js",
-                "stars": 22568,
+                "stars": 22567,
                 "topics": [
                   "ember",
                   "hacktoberfest",
@@ -8143,10 +8143,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-07T00:25:59Z",
-                "open_issues": 1489,
+                "open_issues": 1490,
                 "owner": "hashicorp",
                 "repo": "vault",
-                "stars": 36478,
+                "stars": 36483,
                 "topics": [
                   "go",
                   "secrets",
@@ -8200,11 +8200,11 @@
                 "id": 21365581,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T10:39:01Z",
+                "last_commit": "2026-11-08T06:28:56Z",
                 "open_issues": 115,
                 "owner": "rust-lang",
                 "repo": "crates.io",
-                "stars": 3742,
+                "stars": 3744,
                 "topics": [
                   "hacktoberfest",
                   "rust"
@@ -9673,7 +9673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:01:09.822Z",
+    "last_updated": "2026-11-08T14:17:08.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ember.js stuff like addons, articles, videos, gists and more.",
