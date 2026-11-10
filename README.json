@@ -424,7 +424,7 @@
                 "open_issues": 59,
                 "owner": "FirebaseExtended",
                 "repo": "emberfire",
-                "stars": 682,
+                "stars": 683,
                 "topics": [
                   "ember-data",
                   "emberjs",
@@ -782,7 +782,7 @@
                 "id": 12570984,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T06:08:57Z",
+                "last_commit": "2026-11-09T20:15:12Z",
                 "open_issues": 80,
                 "owner": "mainmatter",
                 "repo": "ember-simple-auth",
@@ -818,7 +818,7 @@
                 "open_issues": 16,
                 "owner": "ember-cli-deploy",
                 "repo": "ember-cli-deploy",
-                "stars": 556,
+                "stars": 557,
                 "topics": [
                   "ember-cli",
                   "ember-cli-deploy"
@@ -1292,7 +1292,7 @@
                 "open_issues": 36,
                 "owner": "broccolijs",
                 "repo": "broccoli",
-                "stars": 3322,
+                "stars": 3323,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:08.294Z"
@@ -1991,7 +1991,7 @@
                 "open_issues": 189,
                 "owner": "linkedin",
                 "repo": "css-blocks",
-                "stars": 6282,
+                "stars": 6281,
                 "topics": [
                   "css",
                   "css-modules",
@@ -2016,7 +2016,7 @@
                 "open_issues": 62,
                 "owner": "linkedin",
                 "repo": "eyeglass",
-                "stars": 735,
+                "stars": 736,
                 "topics": [
                   "css",
                   "eyeglass",
@@ -2621,7 +2621,7 @@
                 "open_issues": 71,
                 "owner": "adopted-ember-addons",
                 "repo": "ember-cp-validations",
-                "stars": 437,
+                "stars": 438,
                 "topics": [
                   "ember",
                   "ember-addon",
@@ -3201,7 +3201,7 @@
                 "id": 273067390,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T00:49:33Z",
+                "last_commit": "2026-11-09T19:06:52Z",
                 "open_issues": 19,
                 "owner": "simonihmig",
                 "repo": "ember-stargate",
@@ -3308,7 +3308,7 @@
                 "open_issues": 38,
                 "owner": "ember-decorators",
                 "repo": "ember-decorators",
-                "stars": 356,
+                "stars": 357,
                 "topics": [
                   "decorators",
                   "ember",
@@ -3597,7 +3597,7 @@
                 "open_issues": 156,
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33019,
+                "stars": 33018,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:08.294Z"
@@ -3618,7 +3618,7 @@
                 "open_issues": 59,
                 "owner": "dtao",
                 "repo": "lazy.js",
-                "stars": 5961,
+                "stars": 5960,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:08.294Z"
@@ -3696,8 +3696,8 @@
                 "id": 28990310,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-23T02:31:23Z",
-                "open_issues": 36,
+                "last_commit": "2026-11-10T03:14:25Z",
+                "open_issues": 35,
                 "owner": "jmurphyau",
                 "repo": "ember-truth-helpers",
                 "stars": 700,
@@ -3876,7 +3876,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-24T20:26:18Z",
-                "open_issues": 19,
+                "open_issues": 21,
                 "owner": "emberjs",
                 "repo": "ember-element-helper",
                 "stars": 44,
@@ -4161,7 +4161,7 @@
                 "open_issues": 31,
                 "owner": "adopted-ember-addons",
                 "repo": "ember-infinity",
-                "stars": 372,
+                "stars": 373,
                 "topics": [
                   "ember",
                   "ember-cli",
@@ -4861,7 +4861,7 @@
                 "id": 119754918,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-03T02:04:51Z",
+                "last_commit": "2026-11-10T02:05:27Z",
                 "open_issues": 6,
                 "owner": "nickschot",
                 "repo": "ember-mobile-pane",
@@ -5557,7 +5557,7 @@
                 "open_issues": 21,
                 "owner": "adopted-ember-addons",
                 "repo": "ember-cli-flash",
-                "stars": 354,
+                "stars": 355,
                 "topics": [
                   "ember",
                   "ember-addon",
@@ -6714,7 +6714,7 @@
                 "open_issues": 18,
                 "owner": "typed-ember",
                 "repo": "ember-cli-typescript",
-                "stars": 356,
+                "stars": 357,
                 "topics": [
                   "addon",
                   "broccoli",
@@ -6797,10 +6797,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-05T15:41:09Z",
-                "open_issues": 1626,
+                "open_issues": 1628,
                 "owner": "hashicorp",
                 "repo": "nomad",
-                "stars": 17088,
+                "stars": 17090,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:08.294Z"
@@ -6890,8 +6890,8 @@
                 "id": 219031296,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T16:34:23Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-10T00:43:50Z",
+                "open_issues": 8,
                 "owner": "josemarluedke",
                 "repo": "frontile",
                 "stars": 60,
@@ -7439,7 +7439,7 @@
                 "open_issues": 1,
                 "owner": "thedaviddias",
                 "repo": "Front-End-Performance-Checklist",
-                "stars": 17387,
+                "stars": 17388,
                 "topics": [
                   "checklist",
                   "css",
@@ -7706,7 +7706,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16717,
+                "stars": 16716,
                 "topics": [
                   "book",
                   "education",
@@ -7734,7 +7734,7 @@
                 "open_issues": 0,
                 "owner": "eoinkelly",
                 "repo": "ember-runloop-handbook",
-                "stars": 365,
+                "stars": 366,
                 "topics": [
                   "ember",
                   "ember-application",
@@ -8109,8 +8109,8 @@
                 "id": 1801829,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T16:12:03Z",
-                "open_issues": 284,
+                "last_commit": "2026-11-10T07:22:21Z",
+                "open_issues": 285,
                 "owner": "emberjs",
                 "repo": "ember.js",
                 "stars": 22569,
@@ -8142,11 +8142,11 @@
                 "id": 31288958,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T17:04:00Z",
-                "open_issues": 1490,
+                "last_commit": "2026-11-10T00:02:59Z",
+                "open_issues": 1491,
                 "owner": "hashicorp",
                 "repo": "vault",
-                "stars": 36490,
+                "stars": 36495,
                 "topics": [
                   "go",
                   "secrets",
@@ -8171,7 +8171,7 @@
                 "open_issues": 72,
                 "owner": "HospitalRun",
                 "repo": "hospitalrun-frontend",
-                "stars": 6888,
+                "stars": 6887,
                 "topics": [
                   "couchdb",
                   "emr",
@@ -8200,11 +8200,11 @@
                 "id": 21365581,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T10:56:41Z",
-                "open_issues": 119,
+                "last_commit": "2026-11-10T14:01:43Z",
+                "open_issues": 114,
                 "owner": "rust-lang",
                 "repo": "crates.io",
-                "stars": 3745,
+                "stars": 3746,
                 "topics": [
                   "hacktoberfest",
                   "rust"
@@ -8269,7 +8269,7 @@
                 "open_issues": 0,
                 "owner": "TryGhost",
                 "repo": "Admin",
-                "stars": 631,
+                "stars": 632,
                 "topics": [
                   "ember",
                   "ghost",
@@ -8320,7 +8320,7 @@
                 "open_issues": 90,
                 "owner": "travis-ci",
                 "repo": "travis-web",
-                "stars": 610,
+                "stars": 611,
                 "topics": [
                   "ember",
                   "javascript",
@@ -8345,7 +8345,7 @@
                 "open_issues": 79,
                 "owner": "skylines-project",
                 "repo": "skylines",
-                "stars": 410,
+                "stars": 411,
                 "topics": [
                   "ember",
                   "flask",
@@ -8701,8 +8701,8 @@
                 "id": 438315051,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-09T13:05:54Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-10T07:56:35Z",
+                "open_issues": 5,
                 "owner": "1024pix",
                 "repo": "pix-editor",
                 "stars": 7,
@@ -9479,7 +9479,7 @@
                 "open_issues": 77,
                 "owner": "emberjs",
                 "repo": "ember-inspector",
-                "stars": 969,
+                "stars": 970,
                 "topics": [
                   "chrome",
                   "ember",
@@ -9650,7 +9650,7 @@
                 "open_issues": 0,
                 "owner": "eoinkelly",
                 "repo": "ember-runloop-handbook",
-                "stars": 365,
+                "stars": 366,
                 "topics": [
                   "ember",
                   "ember-application",
@@ -9673,7 +9673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:27:56.265Z",
+    "last_updated": "2026-11-10T15:35:12.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ember.js stuff like addons, articles, videos, gists and more.",
