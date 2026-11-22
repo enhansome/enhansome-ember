@@ -21,7 +21,7 @@
                 "open_issues": 167,
                 "owner": "meta",
                 "repo": "jscodeshift",
-                "stars": 10050,
+                "stars": 10049,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:08.294Z"
@@ -782,7 +782,7 @@
                 "id": 12570984,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-21T09:57:37Z",
+                "last_commit": "2026-11-22T09:24:43Z",
                 "open_issues": 80,
                 "owner": "mainmatter",
                 "repo": "ember-simple-auth",
@@ -4482,7 +4482,7 @@
                 "open_issues": 441,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196756,
+                "stars": 196766,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -6441,7 +6441,7 @@
                 "id": 104937894,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-21T03:08:32Z",
+                "last_commit": "2026-11-22T09:02:30Z",
                 "open_issues": 16,
                 "owner": "simonihmig",
                 "repo": "ember-window-mock",
@@ -6797,7 +6797,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-18T15:00:22Z",
-                "open_issues": 1653,
+                "open_issues": 1654,
                 "owner": "hashicorp",
                 "repo": "nomad",
                 "stars": 17116,
@@ -7439,7 +7439,7 @@
                 "open_issues": 1,
                 "owner": "thedaviddias",
                 "repo": "Front-End-Performance-Checklist",
-                "stars": 17396,
+                "stars": 17395,
                 "topics": [
                   "checklist",
                   "css",
@@ -8109,11 +8109,11 @@
                 "id": 1801829,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-21T07:21:41Z",
+                "last_commit": "2026-11-22T07:21:56Z",
                 "open_issues": 286,
                 "owner": "emberjs",
                 "repo": "ember.js",
-                "stars": 22570,
+                "stars": 22569,
                 "topics": [
                   "ember",
                   "hacktoberfest",
@@ -8146,7 +8146,7 @@
                 "open_issues": 1502,
                 "owner": "hashicorp",
                 "repo": "vault",
-                "stars": 36554,
+                "stars": 36556,
                 "topics": [
                   "go",
                   "secrets",
@@ -8171,7 +8171,7 @@
                 "open_issues": 72,
                 "owner": "HospitalRun",
                 "repo": "hospitalrun-frontend",
-                "stars": 6885,
+                "stars": 6883,
                 "topics": [
                   "couchdb",
                   "emr",
@@ -8200,8 +8200,8 @@
                 "id": 21365581,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T12:15:12Z",
-                "open_issues": 106,
+                "last_commit": "2026-11-22T10:11:43Z",
+                "open_issues": 108,
                 "owner": "rust-lang",
                 "repo": "crates.io",
                 "stars": 3767,
@@ -9673,7 +9673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T15:21:09.521Z",
+    "last_updated": "2026-11-22T15:16:30.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ember.js stuff like addons, articles, videos, gists and more.",
